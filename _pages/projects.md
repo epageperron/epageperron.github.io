@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description: Research and outreach projects inventory.
 nav: true
 nav_order: 2
 display_categories: [undergoing, completed]
