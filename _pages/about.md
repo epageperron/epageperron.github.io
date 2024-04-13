@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Digital Scholar
+subtitle: Assyriologist and Digital Scholar
 
 profile:
   align: right
