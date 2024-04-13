@@ -1,7 +1,7 @@
 github_users:
   - epageperron
 
-#github_repos:
+github_repos:
   #- alshedivat/al-folio
   #- twbs/bootstrap
   #- jekyll/jekyll
