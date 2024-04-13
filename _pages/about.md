@@ -23,7 +23,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Émilie is Data Specialist at the Archaeology Data Service at the University of York, Research Fellow at the University of Oxford, and Co-Director at the Cuneiform Digital Library Initiative. Her topical research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and Computational Linguistics of cuneiform languages. She reuses and develops cutting-edge technologies required to attain her research objectives and to preserve and render accessible digital cultural heritage.
+Émilie is Data Specialist at the Archaeology Data Service at the University of York, Research Fellow at the University of Oxford, and Co-Director at the Cuneiform Digital Library Initiative. 
+  
+Her topical research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and Computational Linguistics of cuneiform languages. She reuses and develops cutting-edge technologies required to attain her research objectives and to preserve and render accessible digital cultural heritage.
   
 Émilie employs both a traditional philological approach and computational methods in her work. Although her education is based in the Humanities, she has perfected her skills in data science, with a focus on data management and curation, natural language processing, and network analysis.
 
