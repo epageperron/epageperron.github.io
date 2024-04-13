@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Assyriologist and Digital Scholar Émilie Pagé-Perron are a Data Specialist at the Archaeology Data Service at the University of York, a Research Fellow at the University of Oxford, and Co-Director at the Cuneiform Digital Library Initiative. Her research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and Computational Linguistics of cuneiform languages.
+Émilie is a Data Specialist at the Archaeology Data Service at the University of York, a Research Fellow at the University of Oxford, and Co-Director at the Cuneiform Digital Library Initiative. Her research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and Computational Linguistics of cuneiform languages.
   
 Émilie employs both a traditional philological approach and computational methods in her work. Although her education is based in the Humanities, she has perfected her skills in data science, with a focus on data management and curation, natural language processing, and network analysis.
   
