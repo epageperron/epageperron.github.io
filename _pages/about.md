@@ -8,13 +8,13 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Archaeology Data Service</p>
-    <p>Department of Archaeology</p>
-    <p>University of York</p>
-    <p>The King's Manor</p>
-    <p>Exhibition Square</p> 
-    <p>York, YO1 7EP, UK</p>
+  more_info: ><br />
+    Archaeology Data Service<br />
+    Department of Archaeology<br />
+    University of York<br />
+    The King's Manor<br />
+    Exhibition Square<br />
+    York, YO1 7EP, UK<br />
         
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
