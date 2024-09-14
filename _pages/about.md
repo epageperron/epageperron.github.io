@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Émilie the Data Engineer at the Archaeology Data Service at the University of York, Research Fellow at the University of Oxford, and Co-Director at the Cuneiform Digital Library Initiative. 
+Émilie is the Data Engineer at the Archaeology Data Service, University of York, Research Fellow at the University of Oxford, and Co-Director at the Cuneiform Digital Library Initiative. 
   
 Her topical research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and Computational Linguistics of cuneiform languages. She reuses and develops cutting-edge technologies required to attain her research objectives and to preserve and render accessible digital cultural heritage.
   
