@@ -3,11 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: Assyriologist and Digital Scholar
-
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: true
   more_info: >
     <p>Archaeology Data Service</p>
     <p>Department of Archaeology</p>
@@ -15,7 +14,6 @@ profile:
     <p>The King's Manor</p>
     <p>Exhibition Square</p>
     <p>York, YO1 7EP, UK</p>
-        
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
