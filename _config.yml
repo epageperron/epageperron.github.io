@@ -102,7 +102,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: epageperron # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-
 contact_note: >
   The best way to reach me is by email.
 
@@ -386,7 +385,6 @@ enable_progressbar: true # enables a horizontal progress bar linked to the verti
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------
-
 bootstrap-table:
   version: "1.22.1"
 chartjs:
