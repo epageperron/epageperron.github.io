@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: ATRIUM
+description: Facilitating access to digital research infrastructures and advancing frontier knowledge in the arts and humanities — across disciplines, languages and media.
+img: https://atrium-research.eu/_astro/cream.D8xKa-fa_1uMe8S.webp
 importance: 1
 category: work
 related_publications: true
