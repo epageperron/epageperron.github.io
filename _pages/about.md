@@ -21,10 +21,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Émilie is the Data Engineer at the Archaeology Data Service, University of York, a Research Associate at the University of Oxford, and Co-Director at the Cuneiform Digital Library Initiative. 
-  
-Her topical research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and Computational Linguistics of cuneiform languages. She reuses and develops cutting-edge technologies required to attain her research objectives and to preserve and render accessible digital cultural heritage.
-  
-Émilie employs both a traditional philological approach and computational methods in her work. Although her education is based in the Humanities, she has perfected her skills in data science, with a focus on data management and curation, natural language processing, and network analysis.
+Émilie is the Data Engineer at the Archaeology Data Service, University of York. She holds affiliations with the Faculty of Asian and Middle Eastern Studies at the University of Oxford and the Max Planck Institute for Geoanthropology in Jena. She is also a Co-Director at the Cuneiform Digital Library Initiative.  
 
-Her encompassing objective is to catalyze a culture shift towards open data and knowledge, sharing and discovery. Her mission is to champion accessibility, synergy, and interoperability across diverse fields, focusing on the material culture and textual heritage of ancient societies. She is committed to advancing open access, developing innovative tools, and fostering global collaboration for the greater good. By leveraging linked open data and progressive technologies, she aims to empower diverse communities, enrich research practices, and contribute to a global scholarly network. This commitment extends to the well-being of her family, community, and the environment, ensuring a sustainable and inclusive impact.
+Her topical research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and Computational Linguistics of cuneiform languages. She reuses and develops cutting-edge technologies required to attain her research objectives and to preserve and render accessible digital cultural heritage.  
+  
+Émilie employs both a traditional philological approach and computational methods in her work. Although her education is based in the Humanities, she has perfected her skills in data science, with a focus on data management and curation, natural language processing, and network analysis.  
+
+Her encompassing objective is to catalyse a culture shift towards open data and open knowledge, sharing and discovery. Her mission is to champion accessibility, synergy, and interoperability across diverse fields, focusing on the material culture and textual heritage of ancient societies. She is committed to advancing open access, developing innovative tools, and fostering global collaboration for the greater good. By leveraging linked open data and progressive technologies, she aims to empower diverse communities, enrich research practices, and contribute to a global scholarly network.  
+    
+This commitment extends to the well-being of her family, community, and the environment, ensuring a sustainable and inclusive impact.
+
