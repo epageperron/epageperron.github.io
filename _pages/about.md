@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 
 Her topical research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and Computational Linguistics of cuneiform languages. She reuses and develops cutting-edge technologies required to attain her research objectives and to preserve and render accessible digital cultural heritage.  
   
-Émilie employs both a traditional philological approach and computational methods in her work. Although her education is based in the Humanities, she has perfected her skills in data science, with a focus on data management and curation, natural language processing, and network analysis.  
+Émilie employs both a traditional philological approach and computational methods in her work. Although her education is based in the Humanities, she has perfected her skills in information science, with a focus on data management and curation, natural language processing, and network analysis.  
 
 Her encompassing objective is to catalyse a culture shift towards open data and open knowledge, sharing and discovery. Her mission is to champion accessibility, synergy, and interoperability across diverse fields, focusing on the material culture and textual heritage of ancient societies. She is committed to advancing open access, developing innovative tools, and fostering global collaboration for the greater good. By leveraging linked open data and progressive technologies, she aims to empower diverse communities, enrich research practices, and contribute to a global scholarly network.  
     
