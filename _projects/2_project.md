@@ -10,15 +10,15 @@ giscus_comments: true
 
 The **Cuneiform Insights into the Dawn of the Anthropocene** project investigates how cuneiform documents and archaeological data from ancient Mesopotamia reveal the long-term impacts of human activity on the environment. Focusing on third-millennium BCE fisheries in southern Iraq, the project brings together textual analysis, environmental archaeology, and digital humanities to illuminate early examples of anthropogenic change.
 
-**Collaborators:**  
+**Collaborators:**
+
 - Christie Carr
 - Émilie Pagé-Perron
 - Jacob L. Dahl
 - Funded by the John Fell Fund, Oxford
 
 **Related event:**  
-Workshop: *Writing the Dawn of the Anthropocene*, Rencontre Assyriologique Internationale 2025 (Prague)
-
+Workshop: _Writing the Dawn of the Anthropocene_, Rencontre Assyriologique Internationale 2025 (Prague)
 
 ---
 
@@ -100,8 +100,8 @@ The modern destruction of the southern Iraq marshes in the 1990s, through draina
 
 ## Publications and Outputs
 
-- Carr, C., Pagé-Perron, É., Dahl, J.L. *Human-Environment Interactions at the Dawn of the Anthropocene: A Case Study of Third-Millennium Fisheries in South-Western Asia* (in preparation, John Fell Fund, Oxford)
-- Workshop: *Writing the Dawn of the Anthropocene*, Rencontre Assyriologique Internationale 2025 (Prague)
+- Carr, C., Pagé-Perron, É., Dahl, J.L. _Human-Environment Interactions at the Dawn of the Anthropocene: A Case Study of Third-Millennium Fisheries in South-Western Asia_ (in preparation, John Fell Fund, Oxford)
+- Workshop: _Writing the Dawn of the Anthropocene_, Rencontre Assyriologique Internationale 2025 (Prague)
 
 ---
 
@@ -110,4 +110,3 @@ The modern destruction of the southern Iraq marshes in the 1990s, through draina
 This project demonstrates how ancient texts can inform our understanding of long-term human-environment interaction and resilience. Insights from cuneiform sources contribute to debates on sustainability, resource management, and the Anthropocene in the ancient world.
 
 Further research will expand to other resource industries and integrate broader datasets from the CDLI and archaeological surveys.
-
