@@ -4,7 +4,7 @@ title: Access to Cuneiform Texts (CDLI-ACT)
 description: Open access to cuneiform heritage for the Arabic-speaking world, with a new interface, vocabularies, and collaborative workshops.
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: undergoing
 giscus_comments: true
 ---
 
