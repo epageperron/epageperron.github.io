@@ -4,7 +4,7 @@ title: Cuneiform Insights into the Dawn of the Anthropocene
 description: A project exploring ancient fisheries and human-environment interaction in southern Iraq, using cuneiform texts and archaeological evidence.
 img: assets/img/4.jpg
 importance: 2
-category: work
+category: undergoing
 giscus_comments: true
 ---
 
