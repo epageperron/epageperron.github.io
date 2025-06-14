@@ -1,81 +1,113 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Cuneiform Insights into the Dawn of the Anthropocene
+description: A project exploring ancient fisheries and human-environment interaction in southern Iraq, using cuneiform texts and archaeological evidence.
+img: assets/img/4.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The **Cuneiform Insights into the Dawn of the Anthropocene** project investigates how cuneiform documents and archaeological data from ancient Mesopotamia reveal the long-term impacts of human activity on the environment. Focusing on third-millennium BCE fisheries in southern Iraq, the project brings together textual analysis, environmental archaeology, and digital humanities to illuminate early examples of anthropogenic change.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Collaborators:**  
+- Christie Carr
+- Émilie Pagé-Perron
+- Jacob L. Dahl
+- Funded by the John Fell Fund, Oxford
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Related event:**  
+Workshop: *Writing the Dawn of the Anthropocene*, Rencontre Assyriologique Internationale 2025 (Prague)
+
+
+---
+
+## Project Overview
+
+This project explores how data extracted from cuneiform texts can be used to analyse changes in human-environment interaction and impact in southern Iraq in the 3rd millennium BCE. The southern Iraq marshes, once a vast and biodiverse wetland, have faced both ancient and modern exploitation. By combining cuneiform administrative, legal, and epistolary texts with archaeological and ecological data, we seek to answer:
+
+- How did fishing industries in the 3rd millennium BCE affect fish populations and aquatic environments?
+- What evidence exists for resilience, sustainability, or over-exploitation?
+- How did climate, geomorphological change, and irrigation shape resource use and settlement?
+
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/anthropocene-fish.jpg" title="Fish in cuneiform texts" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/anthropocene-marshes.jpg" title="Modern southern Iraq marshes" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/anthropocene-tablet.jpg" title="Cuneiform administrative tablet" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left: Fish and fishing are frequent topics in third-millennium cuneiform texts. Middle: The southern Iraq marshes, a unique ecosystem shaped by millennia of human activity. Right: Administrative cuneiform tablet recording fish rations.
 </div>
+
+---
+
+## Modern and Ancient Contexts
+
+The modern destruction of the southern Iraq marshes in the 1990s, through drainage and diversion, led to catastrophic ecological loss and displacement of the Marsh Arab communities[5]. In antiquity, these marshes were exploited for fish, reeds, birds, and other resources, as documented in cuneiform texts from sites like Lagash, Umma, and Iri-Sagrig.
+
+---
+
+## Research Questions
+
+- Did ancient fishing affect species populations and biodiversity?
+- Are there patterns in the textual data that suggest environmental degradation or sustainability?
+- How do administrative and legal texts reflect changes in resource management over time?
+
+---
+
+## Methodology
+
+- **Textual analysis** of cuneiform documents (administrative, legal, epistolary) mentioning fish and environmental management.
+- **Quantitative study**: Tracking quantities, types, and distribution of fish and other resources across time and place.
+- **Integration with archaeological data**: Comparing textual records with archaeological studies.
+- **Case studies**: Focus on Iri-Sagrig, Umma, and Girsu in the Ur III period.
+
+---
+
+## Key Findings
+
+- **Fish rations**: Large-scale redistribution of fish to workers and messengers is recorded, with notable fluctuations and periods of scarcity.
+- **Environmental impact**: Texts show both abundance and depletion, with some letters noting the unavailability of fish, possibly due to overfishing, climate, or seasonal factors.
+- **Aquaculture evidence**: Rare references to fish ponds and managed breeding suggest early attempts at sustainability.
+- **Climate and hydrology**: Major shifts in river courses, coastline, and irrigation practices shaped both settlement and resource exploitation.
+
+---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/anthropocene-map.jpg" title="Map: Provenance of fish texts" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/anthropocene-workshop.jpg" title="Prague workshop 2025" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/anthropocene-table.jpg" title="Fish rations by city" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Left: Distribution of cuneiform texts mentioning fish in the Ur III period. Middle: Workshop on the Anthropocene and ancient environments, Prague 2025. Right: Table summarizing fish rations by city and period.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Publications and Outputs
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- Carr, C., Pagé-Perron, É., Dahl, J.L. *Human-Environment Interactions at the Dawn of the Anthropocene: A Case Study of Third-Millennium Fisheries in South-Western Asia* (in preparation, John Fell Fund, Oxford)
+- Workshop: *Writing the Dawn of the Anthropocene*, Rencontre Assyriologique Internationale 2025 (Prague)
 
-{% raw %}
+---
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Impact and Future Directions
 
-{% endraw %}
+This project demonstrates how ancient texts can inform our understanding of long-term human-environment interaction and resilience. Insights from cuneiform sources contribute to debates on sustainability, resource management, and the Anthropocene in the ancient world.
+
+Further research will expand to other resource industries and integrate broader datasets from the CDLI and archaeological surveys.
+
