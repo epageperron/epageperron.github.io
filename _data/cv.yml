@@ -88,6 +88,51 @@
       year: 2021-2022
       description:
         - £1,500
+- title: Publications
+  type: nested_list
+  contents:
+    - title: Peer-Reviewed Articles, Chapters, and Proceedings
+      items:
+        - "**2025 (in press)**: Émilie Pagé-Perron. “Expanding Digital Assyriology with Open Access and Machine Learning.” *Digital Humanities Quarterly*."
+        - "**2025 (under review)**: Page-Perron, Émilie. “Network Analysis Application in Light of Historical Knowledge.” In *Routledge Handbook of the Ancient Near East and The Social Sciences*, part II: Theories of Social Structures, section 6c. Social Network Theory."
+        - "**2025 (under review)**: Laurie Pearce, Saana Svärd, Caroline Waerzeggers, Tero Alstola, Adam Anderson, Heather Baker, Elena Devecchi, Carlos Gonçalves, Shai Gordin, Melanie Groß, Heidi Jauhiainen, John Nielsen, Émilie Pagé-Perron, Seth Richardson, Erica Scarpa, and Jonathan Tenney. “White paper on prosopographical studies in the Ancient Near East.” *Cuneiform Digital Library Journal*."
+        - "**2022**: Fahad Khan, Christian Chiarcos, Thierry Declerck, Daniela Gifu, Elena González-Blanco García, Jorge Gracia, Max Ionov, Penny Labropoulou, Francesco Mambrini, John McCrae, Émilie Pagé-Perron, Marco Passarotti, Salvador Ros, Ciprian-Octavian Truica. “When Linguistics Meets Web Technologies. Recent advances in Modelling Linguistic Linked Open Data.” *Semantic Web* 13(6), 987-1050. [https://doi.org/10.3233/SW-223018](https://doi.org/10.3233/SW-223018)"
+        - "**2021**: Bansal, Rachit, Himanshu Choudhary, Ravneet Punia, Niko Schenk, Jacob L. Dahl, Émilie Pagé-Perron. “How Low is Too Low? A Computational Perspective on Extremely Low-Resource Languages.” *Association of Computational Linguistics-IJCNLP Student Research Workshop Proceedings*."
+        - "**2020**: Ravneet Punia, Niko Schenk, Christian Chiarcos, Émilie Pagé-Perron. “Towards the First Machine Translation System for Sumerian Transliterations.” In *Proceedings of the 28th International Conference on Computational Linguistics*, pp. 3454–3460, Barcelona, Spain (Online). [https://aclanthology.org/2020.coling-main.304/](https://aclanthology.org/2020.coling-main.304/)"
+        - "**2018**: Émilie Pagé-Perron. “Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora.” In Vanessa Juloux, Amy Gansell, and Alessandro di Ludovico (eds.), *CyberResearch on the Ancient Near East and Eastern Mediterranean. Case Studies on texts, objects, and archaeological data*. Brill. [http://epageperron.info/publications/](http://epageperron.info/publications/)"
+        - "**2018**: Christian Chiarcos, Émilie Pagé-Perron, Ilya Khait, Niko Schenk, Lucas Reckling. “Towards a Linked Open Data Edition of Sumerian Corpora.” *Proceedings of the Language Resources and Evaluation Conference*."
+        - "**2018**: Christian Chiarcos, Ilya Khait, Émilie Pagé-Perron, Niko Schenk, Jayanth, Lucas Reckling. “Annotating Sumerian: A LLOD-enhanced Workflow for Cuneiform Corpora.” *Proceedings of the 6th Workshop on Linked Data in Linguistics (LDL-2018): Towards Linguistic Data Science*."
+        - "**2017**: Émilie Pagé-Perron, Maria Sukhareva, Ilya Khait, Christian Chiarcos. “Machine Translation and Automated Analysis of the Sumerian Language.” *LaTeCH-CLfL workshop, Association for Computational Linguistics (ACL) Anthology*. [https://aclanthology.org/W17-4009/](https://aclanthology.org/W17-4009/)"
+        - "**2017**: Pagé-Perron, Émilie, and Reckling, Lucas. “Introducing the Machine Translation and Automated Analysis of Cuneiform Languages Project.” University of Toronto Digital Humanities Network Event, Toronto, August 29, 2017. [https://cdli-gh.github.io/mtaac/pubs/](https://cdli-gh.github.io/mtaac/pubs/)"
+    - title: In Preparation
+      items:
+        - "**2025**: Émilie Pagé-Perron and Rune Rattenborg. “Cuneiform Histories: The Harrogate and Swansea Collections at the Egypt Centre, Swansea University, United Kingdom.” To be submitted to *Zeitschrift für Assyriologie und Vorderasiatische Archäologie*."
+        - "**2025**: Christie Carr, Émilie Pagé-Perron, and Jacob L. Dahl. “Human-Environment Interactions at the Dawn of the Anthropocene: A Case Study of Third-Millennium Fisheries in South-Western Asia.”"
+    - title: Datasets, Software, and Digital Outputs
+      items:
+        - "Lead developer: [https://cdli.earth](https://cdli.earth) (Cuneiform Digital Library Initiative website)"
+        - "Lead developer: [https://gitlab.com/cdli/framework](https://gitlab.com/cdli/framework) (CDLI Framework)"
+        - "Lead developer: [https://github.com/cdli-gh/data](https://github.com/cdli-gh/data) (CDLI Data Dumps)"
+        - "Lead developer: [https://github.com/cdli-gh/conll2graphml](https://github.com/cdli-gh/conll2graphml) (Network graph from co-occurring individuals in texts)"
+        - "Lead developer: [https://github.com/cdli-gh/atf2conc](https://github.com/cdli-gh/atf2conc) (Text processing for KWIK/concordance software)"
+        - "Lead developer: [https://github.com/Diyala-OI/interface](https://github.com/Diyala-OI/interface) (Diyala small finds map interface)"
+        - "Lead developer: [https://github.com/uoy-ads/welsh-trusts-greylit](https://github.com/uoy-ads/welsh-trusts-greylit) (Welsh Trusts grey literature ingest tool)"
+        - "Team member: [https://cdli.mpiwg-berlin.mpg.de/resources/sparql](https://cdli.mpiwg-berlin.mpg.de/resources/sparql) (CDLI Knowledge Graph)"
+        - "Team member: [https://cdli.eartn/docs](https://cdli.eartn/docs) (CDLI documentation)"
+        - "Team member: [https://github.com/cdli-gh/framework-api-client](https://github.com/cdli-gh/framework-api-client) (API client for CDLI data)"
+        - "Team member: [https://github.com/cdli-gh/Sumerian-Translation-Pipeline](https://github.com/cdli-gh/Sumerian-Translation-Pipeline) (Sumerian translation pipeline)"
+        - "Team member: [https://github.com/cdli-gh/glow_vocabularies](https://github.com/cdli-gh/glow_vocabularies) (Domain vocabularies)"
+        - "Team member: [https://github.com/ARIADNE-Infrastructure/AO-Cat-Ontology](https://github.com/ARIADNE-Infrastructure/AO-Cat-Ontology) (CIDOC-based ontology)"
+        - "Team member: [https://ariadne-portal.d4science.org/](https://ariadne-portal.d4science.org/) (ARIADNE portal datasets)"
+        - "Team member: [https://github.com/cdli-gh/mtaac_gold_corpus](https://github.com/cdli-gh/mtaac_gold_corpus) (Manually annotated Sumerian corpus)"
+        - "Team member: [https://github.com/cdli-gh/atf2conll-convertor](https://github.com/cdli-gh/atf2conll-convertor) (Text to annotation format converter)"
+        - "Team member: [https://github.com/cdli-gh/morphology-pre-annotation-tool](https://github.com/cdli-gh/morphology-pre-annotation-tool) (Morphological annotator)"
+        - "Team member: [https://github.com/cdli-gh/annotation_assistant](https://github.com/cdli-gh/annotation_assistant) (Annotation workflow tool)"
+    - title: Theses
+      items:
+        - "**2024**: Émilie Pagé-Perron. *The Pantheons of Adab*. PhD Dissertation, University of Toronto. [http://epageperron.info/education/](http://epageperron.info/education/)"
+        - "**2012**: Émilie Pagé-Perron. *The Fish Industry in Early Dynastic Lagash*. MA Thesis, University of Geneva."
+        - "**2007**: Émilie Pagé-Perron. *Les Kallu Doms de Varanasi*. BA Thesis, Université du Québec à Montréal."
 
 - title: Past Research Experience
   type: time_table
@@ -110,12 +155,12 @@
 - title: Awards and Scholarships
   type: time_table
   contents:
-    - year: 2023
-      items:
-        - Emerging Open Scholarship Award (Canadian Social Knowledge Institute)
     - year: 2024
       items:
         - Investigator, Automating Metadata Harvesting for Aggregation in ARIADNE, COST Action IG18128
+    - year: 2023
+      items:
+        - Emerging Open Scholarship Award (Canadian Social Knowledge Institute)
     - year: 2015-2017
       items:
         - SSHRC Doctoral Award
