@@ -8,7 +8,7 @@
     - name: Affiliation
       value: Archaeological Data Service, Department of Archaeology, University of York
     - name: Languages
-      value: French (native), English (near-native), German (basic proficiency)
+      value: French (native), English (near native), German (basic proficiency)
 
 - title: Education
   type: time_table
