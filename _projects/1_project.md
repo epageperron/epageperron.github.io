@@ -73,8 +73,8 @@ The cuneiform corpus is one of the largest bodies of ancient writing, but most r
 ## Milestones
 
 - **February–July 2025:** Awareness and outreach, including presentations at major conferences and an Arabic-language article in ISIN Journal.
-- **July 2025:** Workshop at Oxford University for vocabulary translation.
-- **October–December 2025:** Workshops in Iraq and launch of the test interface.
+- **Before January 2026:** Workshop at Oxford University for vocabulary translation.
+- **Before March 2026:** Workshops in Iraq and launch of the test interface.
 - **Early 2026:** Production release and formal launch at the Rencontre Assyriologique Internationale, Baghdad.
 
 ---
