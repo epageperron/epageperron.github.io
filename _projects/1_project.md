@@ -1,53 +1,98 @@
 ---
 layout: page
-title: ATRIUM
-description: Facilitating access to digital research infrastructures and advancing frontier knowledge in the arts and humanities — across disciplines, languages and media.
-img: https://atrium-research.eu/_astro/cream.D8xKa-fa_1uMe8S.webp
-importance: 1
+title: Access to Cuneiform Texts (CDLI-ACT)
+description: Open access to cuneiform heritage for the Arabic-speaking world, with a new interface, vocabularies, and collaborative workshops.
+img: assets/img/3.jpg
+importance: 2
 category: work
-related_publications: true
+giscus_comments: true
 ---
+
+The **Access to Cuneiform Texts (CDLI-ACT)** project is building the first major open access digital interface for the study and dissemination of cuneiform inscriptions in the Arabic language. Once completed, this resource will allow scholars and the public in the Arab world to access a digital catalogue of nearly 400,000 cuneiform artifacts from the Middle East, now spread across the globe.
+
+**Project duration:** February 2025 – February 2026  
+**Budget:** £23,736  
+**Main applicants:** Dr. Rune Rattenborg (Lund University), Dr. Émilie Pagé-Perron (University of York), Prof. Haider ‘Aqīl ‘Abid, Prof. Jaafar Jotheri (Al-Qadisiyah University)  
+**Project staff:** Moudhy al-Rashid (Oxford), Zainab Mizyidawi, Zahra Dabaghmanesh, Lars Willighagen, Malath Feadha
+
+[Open Collective project page](https://opencollective.com/cdli/projects/cdli-act)
+
+---
+
+## Project Overview
+
+CDLI-ACT augments the [Cuneiform Digital Library Initiative (CDLI)](https://cdli.earth/) with an Arabic-language interface and specialized vocabularies. The project will:
+
+- Enable Arabic-speaking users to explore, download, and reuse data from the CDLI catalogue for research, teaching, and communication.
+- Allow researchers and cultural heritage specialists to edit and contribute records to the CDLI catalogue through the existing crowdsourcing system.
+- Develop Arabic vocabularies for cuneiform studies, contributing to broader international resources like the Getty Art and Architecture Thesaurus.
+
+The project is developed by a team of assyriologists, archaeologists, digital humanists, translators, and programmers, with workshops and seminars in the UK and Iraq. A test version of the Arabic interface will launch in late 2025, with a production release planned for the 2026 Rencontre Assyriologique Internationale in Baghdad.
+
+---
+
+## Work Packages
+
+- **WP1:** Building project awareness through presentations, publications, and online outreach.
+- **WP2:** Interface and database development for Arabic internationalization.
+- **WP3:** Workshop at Oxford University for translating catalogue vocabularies.
+- **WP4:** Workshops at Al-Qadisiyah, Babil, Baghdad, and Mosul Universities to launch the test version.
+- **WP5:** Translating website documentation into Arabic.
+- **WP6:** Testing and release with feedback from Arabic-speaking users.
+- **WP7:** Formal launch at the Rencontre Assyriologique Internationale, Baghdad, 2026.
+
+---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/act-flyer.jpg" title="Bilingual project flyer" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/act-workshop.jpg" title="Workshop at Al-Qadisiyah University" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/act-interface.jpg" title="Arabic interface prototype" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Left: Bilingual project flyer. Middle: Workshop at Al-Qadisiyah University. Right: Prototype of the Arabic-language interface.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
+
+## Why It Matters
+
+The cuneiform corpus is one of the largest bodies of ancient writing, but most resources are in Western languages and based in Europe or North America. CDLI-ACT will:
+
+- Decolonize access to Mesopotamian heritage.
+- Empower Arabic-speaking researchers, students, and the public.
+- Foster international collaboration and knowledge exchange.
+
+---
+
+## Milestones
+
+- **February–July 2025:** Awareness and outreach, including presentations at major conferences and an Arabic-language article in ISIN Journal.
+- **July 2025:** Workshop at Oxford University for vocabulary translation.
+- **October–December 2025:** Workshops in Iraq and launch of the test interface.
+- **Early 2026:** Production release and formal launch at the Rencontre Assyriologique Internationale, Baghdad.
+
+---
+
+You can follow project progress, contribute, or support financially via the [Open Collective project page](https://opencollective.com/cdli/projects/cdli-act).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/act-map.jpg" title="CDLI artifact map" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/act-team.jpg" title="Project team" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left: Map of cuneiform artifact distribution. Right: CDLI-ACT project team.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
 
+For more information, visit [CDLI-ACT on Open Collective](https://opencollective.com/cdli/projects/cdli-act) or [CDLI](https://cdli.earth/).
