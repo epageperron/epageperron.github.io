@@ -64,7 +64,7 @@ The project is developed by a team of assyriologists, archaeologists, digital hu
 
 The cuneiform corpus is one of the largest bodies of ancient writing, but most resources are in Western languages and based in Europe or North America. CDLI-ACT will:
 
-- Decolonize access to Mesopotamian heritage.
+- Support the decolonisation of access to the Mesopotamian heritage.
 - Empower Arabic-speaking researchers, students, and the public.
 - Foster international collaboration and knowledge exchange.
 
