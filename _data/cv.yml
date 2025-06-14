@@ -128,21 +128,129 @@
         - Jackman Humanities Institute Junior Fellowship
         - University of Toronto Fellowship
 
-- title: Publications
-  type: list
+- title: Invited Talks
+  type: time_table
   contents:
-    - "See full list at: https://epageperron.github.io/publications/ (or add selected publications here)"
+    - year: 2025
+      items:
+        - "“From cuneiform tablets to knowledge graphs: Assyriological metadata standards in context.” 1st International Conference of the SNSF Sinergia Project Hydrography of Mesopotamia, Bern, October 16-19."
+    - year: 2024
+      items:
+        - "“Use and reuse of Information Extraction (IE) and other computational approaches to cuneiform text.” Computational and Digital Archaeology Lab (CDAL) and Ancient Near East seminar, University of Cambridge, November 4."
+    - year: 2023
+      items:
+        - "“Using the Cuneiform Digital Library Initiative in your research workflow.” Digital Applications in Assyriology Nordic Summer School, Helsinki, August 18."
+        - "“From Clay to Bytes, Ancient Cuneiform in the Age of AI.” Digital Humanities Summer School at Oxford, University of Oxford, July 6."
+    - year: 2022
+      items:
+        - "“Sustainability and Success at the Cuneiform Digital Library Initiative (CDLI).” Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe, Staats- und Universitätsbibliothek Hamburg, Virtual, October 19-21."
+        - "“(Participation at) the Cuneiform Digital Library Initiative (CDLI).” Digital Applications in Assyriology Nordic Summer School, University of Uppsala, August 1-2."
+        - "“From Clay to Bytes, Ancient Cuneiform in the Age of AI.” Digital Humanities Summer School at Oxford, University of Oxford, July 12."
+        - "“All the Things They Wrote on Clay: Exploring the Quantitative Dimensions of the Cuneiform Corpus.” Uppsala University, June 16."
+        - "“The pantheons of Adab: texts and contexts.” Topics in Egyptology and Ancient Near Eastern Studies Lecture Series, University of Oxford, June 7."
+    - year: 2021
+      items:
+        - "“Digital Library Organization and Accessibility.” Future Philology: Digitization and Beyond, University of Oxford, September 30 - October 1."
+        - "“The Cuneiform Digital Library Initiative - Infrastructure.” Status quo und aktuelle Entwicklungen zu digitalen Keilschrifteditionen, Universität Mainz, Virtual, March 1-2."
+    - year: 2020
+      items:
+        - "“Cuneiform Digital Library Initiative Bibliography Management.” Metadata in Assyriology, Uppsala University, Virtual, November 23-26."
+        - "“The Cuneiform Digital Library Initiative.” TextWorlds Seminar Series: Cuneiform, Uppsala University, Virtual, October 21."
+        - "“Machine Translation and Automated Analysis of Cuneiform Languages.” Round Four Digging into Data Challenge Conference, National Science Foundation, Alexandria DC, January 29-31."
+    - year: 2019
+      items:
+        - "“New Technologies for Cuneiform Studies: Processing & Linking Textual Data.” University of California Berkeley, April 8."
+        - "“Sumerian Annotation Workshop.” [With Jinyan Wang and Ilya Khait] University of California Berkeley, April 8."
+    - year: 2018
+      items:
+        - "“Pre-requisites and Workflow for the Machine Translation of the Sumerian Language.” Future Philologies: Digital Directions in Ancient World Text Workshop, Institute for the Study of the Ancient World, New York, April 20."
+        - "“Recent Developments in Natural Language Processing for Cuneiform Languages.” Thinking Digital in Cuneiform Studies: Methods, Problems, Perspectives Workshop, Venice, March 27-28."
+        - "“Le projet MTAAC: traduction et analyse automatique de textes cunéiformes.” Conférence de l'Association des études du Proche-Orient ancien, Université du Québec à Montréal, March 13."
+    - year: 2017
+      items:
+        - "“E-philologie d'aujourd'hui et demain, l'assyriologie digitale en contexte.” Caf'E.PHE 15th edition, École Pratique des Hautes Études, Paris, February 24."
+        - "“Hypothes.is comme outil pédagogique.” Caf'E.PHE 15th edition, École Pratique des Hautes Études, Paris, February 24."
+    - year: 2016
+      items:
+        - "“Réflexion sur la visualisation des données appliquée aux corpus en cunéiforme.” Caf'E.PHE 11th edition, École Pratique des Hautes Études, Paris (virtual), February 9."
 
-- title: Software and Data Projects
-  type: list
+- title: Panels and Workshops Organized
+  type: time_table
   contents:
-    - "Lead developer: https://cdli.earth, https://gitlab.com/cdli/framework, https://github.com/cdli-gh/data"
-    - "Team member: https://cdli.mpiwg-berlin.mpg.de/resources/sparql, https://cdli.eartn/docs, https://github.com/cdli-gh/framework-api-client, and others"
+    - year: 2026
+      items:
+        - "“Commoning the digital and public space: Activism for sustainable preservation.” Nordic Theory in Action (TAG), Kalmar, Sweden, May 6-9. [with Anne Baillot and Megan Black]"
+    - year: 2025
+      items:
+        - "“Towards adaptation: environmental sustainability in archaeological workflows.” Theory in Action (TAG), Theoretical Archaeology Group Annual Meeting, York, December 15-17. [with Anne Baillot]"
+        - "“Writing the Dawn of the Anthropocene.” Rencontre Assyriologique Internationale 70, Prague, July 7-11. [with Christie Carr and Rune Rattenborg]"
+        - "“Reusable Digital Research Workflows for Archaeology, Computer Applications and Quantitative Methods in Archaeology.” Computer Applications and Quantitative Methods in Archaeology (CAA) Conference, Athens, May 5-9. [with Agiatis Benardou, Anne Baillot & Julian Richards]"
+    - year: 2023
+      items:
+        - "“Cuneiform in the Age of Digital Archaeology: Online Resources for the Integration of Text and Material Culture Workshop.” International Congress on the Archaeology of the Ancient Near East (ICAANE), Copenhagen, May 22-26. [with Rune Rattenborg]"
+    - year: 2021-2022
+      items:
+        - "“Vocabularies Consortium.” Three workshops of the Geomapping Landscapes of Writing: Large-Scale Spatial Analysis of the Cuneiform Corpus, virtual / Uppsala / Oxford. [with Rune Rattenborg and Adam Anderson]"
+    - year: 2018
+      items:
+        - "“Methodological Developments in Prosopographical Studies” Workshop. Rencontre Assyriologique Internationale, Innsbruck, July 16-20."
+    - year: 2017
+      items:
+        - "“Text as Data: Digital Humanities for Text Analysis.” American Oriental Society, Los Angeles, March 17-20. [with Timothy Bellefleur]"
 
-- title: Invited Talks and Conference Activity
-  type: list
+- title: Conference Talks and Posters
+  type: time_table
   contents:
-    - "See full list at: https://epageperron.github.io/talks/ (or add selected talks here)"
+    - year: 2025
+      items:
+        - "“Go with the (Work)flow! Creating Reusable and Replicable Workflows for Digital Humanities Research.” Digital Humanities Benelux, Amsterdam, June 3-6. [with Anne Baillot, Émilie Pagé-Perron, Megan Black, Toma Tasovac and Matej Durco] (Poster)"
+        - "‘Cuneiform Digital Library Initiative: A Free Database of All Cuneiform Texts.’ 6th International Conference of Mesopotamian Archaeology, Al-Qadisiyah University, Al-Diwaniyah, Iraq, February 25. [with Rattenborg, Rune, Jacob L. Dahl, Bertrand Lafont, and Jürgen Renn]"
+    - year: 2024
+      items:
+        - "“DEMCC - The First Online Cuneiform Texts Database in China.” OpenDANES conference, online, December 8. [with Changyu Liu, Qier Zhang, Jing Tan, and Muzhe Han]"
+        - "“The ARIADNE Portal at the Heart of the ATRIUM project funded by the European Commission.” Swiss National Data and Service Center for the Humanities Conference (DaSCHCon), Bern, October 23. [with Julian Richards and Anne Baillot]"
+        - "“We got cuneiform, do you? How to collaborate on the CDLI Framework.” Rencontre Assyriologique Internationale, Helsinki, July 8-12. [with Rune Rattenborg, Jacob L. Dahl, Bertrand Lafont, and Jürgen Renn]"
+    - year: 2023
+      items:
+        - "“From transcription to network analysis on evolving corpora.” Digital Text Studies Workshop, Wolfson College Digital Cluster, Oxford, June 7."
+        - "“A matter of access: leveraging text, metadata, and images of cuneiform artifacts by non-linguists.” Cuneiform in the Age of Digital Archaeology: Online Resources for the Integration of Text and Material Culture Workshop, International Congress on the Archaeology of the Ancient Near East (ICAANE), Copenhagen, May 22-26."
+    - year: 2022
+      items:
+        - "“Building ETCSANS: The Electronic Text Corpus of Syntactically Annotated Neo-Sumerian.” Digital Humanities, Tokyo, Virtual, July 25-29. [with Christian Chiarcos]"
+        - "“The Vocabularies Consortium: Best Practices for Entity Standardisation and Domain-Specific Controlled Vocabularies for Inscribed Artefact Metadata.” Rencontre Assyriologique Internationale Mainz, Virtual, July 25-29. [with Rune Rattenborg and Adam Anderson]"
+    - year: 2021
+      items:
+        - "“Interoperability of the CDLI Catalogue.” ArtiBites – Approaches to Digitizing Seals and Tablets (Workshop), American Schools of Oriental Research annual meeting, virtual, December 9-12."
+        - "“A Next Generation Infrastructure for Digital Assyriology.” The Association for Computers and the Humanities Conference, Virtual, July 21-23. [with Christian Chiarcos]"
+    - year: 2020
+      items:
+        - "“Open Science at the CDLI: Focus on collaboration and accessibility.” Recent developments in digital Assyriology - Zoom Workshop, Helsinki, August 26-27."
+    - year: 2019
+      items:
+        - "“The MTAAC Project: Computational Analysis for Sumerian.” Broadening Horizons, Berlin, June 24-28. [with Ilya Khait]"
+    - year: 2018
+      items:
+        - "“Cuneiform Collections as (Linked) Data.” Collections as Data workshop, Digital Libraries Forum, Las Vegas, October 15-17."
+        - "“The scribes of Adab.” Methodological Developments in Prosopographical Studies Workshop, Rencontre Assyriologique Internationale, Innsbruck, July 16-20."
+    - year: 2017
+      items:
+        - "“Getting LOADed: Practical Considerations, Tools, and Workflows for producing Linked Open Assyriological Data.” American Schools of Oriental Research annual meeting, Boston, November 15-18. [with Terhi Nurmikko-Fuller]"
+        - "“Machine Translation and Automated Analysis of Cuneiform Languages.” Canadian Society for Mesopotamian Studies Annual Symposium, Toronto, September 30. [with Lucas Reckling]"
+        - "“Introducing the Machine Translation and Automated Analysis of Cuneiform Languages Project.” Digital Humanities Network Event, Toronto, August 29. [with Lucas Reckling]"
+        - "“Machine Translation and Automated Analysis of the Sumerian Language.” LaTeCH-CLfL workshop, Vancouver, August 4. [with Maria Sukhareva, Ilya Khait, and Christian Chiarcos]"
+        - "“History and future developments of the Cuneiform Digital Library Initiative.” Digital Humanities Summer Institute Colloquium, Victoria, June 4-16."
+        - "“A Quantitative Method for Identifying Meaningful Groups of People in Administrative Cuneiform Archives.” American Oriental Society 227th Meeting, Los Angeles, March 17-20."
+        - "“Enhancing Collaboration between Digital Assyriology Projects through Open Access Practices.” Computer Applications and Quantitative Methods in Archaeology (CAA) international conference, Atlanta, March 14-16. [with Terhi Nurmikko-Fuller and Vanessa Juloux]"
+        - "“Expanding Digital Assyriology with Open Access and Machine Learning: Cuneiform Digital Library Initiative White Paper for the Global Philology Project.” Global Philology Open Conference, Leipzig, February 20-23."
+    - year: 2016
+      items:
+        - "“Data Mining Cuneiform Corpora: Get Relational.” American Schools of Oriental Research annual meeting, San Antonio, November 16-19."
+        - "“The Fishermen of Early Dynastic Lagash.” American Oriental Society 226th Meeting, Boston, March 18-21."
+    - year: 2015
+      items:
+        - "“Data Mining and Visualizing Data from Cuneiform Texts.” ISAW LAWDI Event: Digital Antiquity Coffee House, New York, October 2."
+        - "“La reconstruction du panthéon au 3e millénaire avant notre ère: le cas de la 'déesse mère'.” 7e Congrès international des recherches féministes dans la francophonie (CIRFF), Montreal, August 24-28."
+
 
 - title: Teaching Experience
   type: time_table
