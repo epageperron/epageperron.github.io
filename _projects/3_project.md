@@ -50,6 +50,6 @@ While the framework update was led by UCLA, the project benefited from a close, 
 
 - [CDLI Framework on GitLab](https://gitlab.com/cdli/framework)
 - [CDLI Data on GitHub](https://github.com/cdli-gh/data)
-- [Project white paper (PDF)]([https://cdli.earth/postings/204](https://apps.neh.gov/publicquery/Download.aspx?data=VdyuWICxOG8fub0cB%2bOWeDdPgrJO%2bpOTcRCGs0WaGjPi3%2bguDfxWPzx%2b6vMZQ876LwNk9wG4S%2fEfyAZT5tHzXRTekiBf8lg7ocJ9UO9oQlgdKuR9w2MOZTAPi09cOOgrfidyPoBHrjFRRgFIzU5Law%3d%3d))
+- [Project white paper (PDF)]([https://apps.neh.gov/publicquery](https://apps.neh.gov/publicquery/Download.aspx?data=VdyuWICxOG8fub0cB%2bOWeDdPgrJO%2bpOTcRCGs0WaGjPi3%2bguDfxWPzx%2b6vMZQ876LwNk9wG4S%2fEfyAZT5tHzXRTekiBf8lg7ocJ9UO9oQlgdKuR9w2MOZTAPi09cOOgrfidyPoBHrjFRRgFIzU5Law%3d%3d)
 
 ---
