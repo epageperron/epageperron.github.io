@@ -5,7 +5,7 @@ description: A project exploring ancient fisheries and human-environment interac
 img: assets/img/4.jpg
 importance: 2
 category: undergoing
-giscus_comments: true
+giscus_comments: false
 ---
 
 The **Cuneiform Insights into the Dawn of the Anthropocene** project investigates how cuneiform documents and archaeological data from ancient Mesopotamia reveal the long-term impacts of human activity on the environment. Focusing on third-millennium BCE fisheries in southern Iraq, the project brings together textual analysis, environmental archaeology, and digital humanities to illuminate early examples of anthropogenic change.
