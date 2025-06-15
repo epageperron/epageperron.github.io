@@ -59,15 +59,12 @@
       institution: Max Planck Institute for the History of Science, Berlin
       year: 11/2021 - 09/2023
 
-
-
 - title: Award
   type: time_table
   contents:
     - year: 2023
       items:
         - Emerging Open Scholarship Award (Canadian Social Knowledge Institute)
-
 
 - title: Research Grants
   type: time_table
@@ -264,7 +261,6 @@
         - "“Data Mining and Visualizing Data from Cuneiform Texts.” ISAW LAWDI Event: Digital Antiquity Coffee House, New York, Oct 2."
         - "“La reconstruction du panthéon au 3e millénaire avant notre ère: le cas de la 'déesse mère'.” CIRFF, Montreal, Aug 24-28."
 
-
 - title: Teaching Experience
   type: time_table
   contents:
@@ -294,7 +290,6 @@
       description:
         - Ideas of the World II: Prehistory to the Renaissance
 
-
 - title: Past Research Experience
   type: time_table
   contents:
@@ -316,7 +311,6 @@
       institution: University of Geneva
       year: 2009
 
-
 - title: Scholarships and Fellowships
   type: time_table
   contents:
@@ -334,8 +328,6 @@
       items:
         - Jackman Humanities Institute Junior Fellowship
         - University of Toronto Fellowship
-
-
 
 - title: Service to Profession
   type: list
@@ -362,4 +354,3 @@
     - "The New Scientist: Cracking the code (2022) https://doi.org/10.1016/S0262-4079(22)01401-4"
     - "BBC Online: The key to cracking long-dead languages? (2018) https://www.bbc.com/future/article/20181207-how-ai-could-help-us-with-ancient-languages-like-sumerian"
     - "CBC Radio: Machine learning deciphers the world's oldest texts (2018) https://www.cbc.ca/radio/spark/spark-418-1.4945331/machine-learning-deciphers-the-world-s-oldest-texts-1.4945342"
-
