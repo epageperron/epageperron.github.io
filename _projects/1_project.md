@@ -2,7 +2,7 @@
 layout: page
 title: Access to Cuneiform Texts (CDLI-ACT)
 description: Open access to cuneiform heritage for the Arabic-speaking world, with a new interface, vocabularies, and collaborative workshops.
-img: assets/img/3.jpg
+img: assets/img/3.png
 importance: 2
 category: undergoing
 giscus_comments: true
@@ -45,7 +45,7 @@ The project is developed by a team of assyriologists, archaeologists, digital hu
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/act-flyer.jpg" title="Bilingual project flyer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.png" title="Bilingual project flyer" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/act-workshop.jpg" title="Workshop at Al-Qadisiyah University" class="img-fluid rounded z-depth-1" %}
