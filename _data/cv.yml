@@ -16,19 +16,19 @@
       institution: University of Toronto, Canada
       year: 2024
       description:
-        - Dissertation: The Pantheons of Adab
-        - Advisor: Paul-Alain Beaulieu
+        - "Dissertation: The Pantheons of Adab"
+        - "Advisor: Paul-Alain Beaulieu"
     - title: M.A. Mesopotamian Studies
       institution: University of Geneva, Switzerland
       year: 2012
       description:
-        - Thesis: The Fish Industry in Early Dynastic Lagash
-        - Advisor: Antoine Cavigneaux
+        - "Thesis: The Fish Industry in Early Dynastic Lagash"
+        - "Advisor: Antoine Cavigneaux"
     - title: B.A. Religiology
       institution: Université du Québec à Montréal, Canada
       year: 2007
       description:
-        - Thesis: The Kallu Doms of Varanasi (including field research)
+        - "Thesis: The Kallu Doms of Varanasi (including field research)"
 
 - title: Professional Appointments
   type: time_table
@@ -177,11 +177,14 @@
     - title: Research Assistant, Prosopography of the Neo-Assyrian Empire online project
       institution: University of Toronto
       year: 2019-2020
+    - title: Project Manager, CDLI Framework Update (NEH)
+      institution: University of California, Los Angeles
+      year: 2017-2022
     - title: Project Coordinator, Machine Translation and Automated Analysis of Cuneiform Languages Project (MTAAC)
       institution: University of Toronto, UCLA, University of Frankfurt
-      year: 2017-2020
+      year: 2017-2021
       description:
-        - Managed UCLA and Toronto teams; acting PI for NEH-funded CDLI Framework Update
+        - Managed UCLA and Toronto teams
     - title: Archaeological Database Manager, Diyala Project
       institution: University of Toronto and Chicago Oriental Institute
       year: 2013-2016
