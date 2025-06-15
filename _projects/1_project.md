@@ -5,7 +5,7 @@ description: Open access to cuneiform heritage for the Arabic-speaking world, wi
 img: assets/img/3.png
 importance: 2
 category: undergoing
-giscus_comments: true
+giscus_comments: false
 ---
 
 The **Access to Cuneiform Texts (CDLI-ACT)** project is building the first major open access digital interface for the study and dissemination of cuneiform inscriptions in the Arabic language. Once completed, this resource will allow scholars and the public in the Arab world to access a digital catalogue of nearly 400,000 cuneiform artifacts from the Middle East, now spread across the globe.
