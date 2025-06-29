@@ -32,23 +32,6 @@ This project explores how data extracted from cuneiform texts can be used to ana
 
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/anthropocene-fish.jpg" title="Fish in cuneiform texts" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/anthropocene-marshes.jpg" title="Modern southern Iraq marshes" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/anthropocene-tablet.jpg" title="Cuneiform administrative tablet" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Left: Fish and fishing are frequent topics in third-millennium cuneiform texts. Middle: The southern Iraq marshes, a unique ecosystem shaped by millennia of human activity. Right: Administrative cuneiform tablet recording fish rations.
-</div>
-
----
-
 ## Modern and Ancient Contexts
 
 The modern destruction of the southern Iraq marshes in the 1990s, through drainage and diversion, led to catastrophic ecological loss and displacement of the Marsh Arab communities[5]. In antiquity, these marshes were exploited for fish, reeds, birds, and other resources, as documented in cuneiform texts from sites like Lagash, Umma, and Iri-Sagrig.
@@ -81,22 +64,7 @@ The modern destruction of the southern Iraq marshes in the 1990s, through draina
 
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/anthropocene-map.jpg" title="Map: Provenance of fish texts" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/anthropocene-workshop.jpg" title="Prague workshop 2025" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/anthropocene-table.jpg" title="Fish rations by city" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Left: Distribution of cuneiform texts mentioning fish in the Ur III period. Middle: Workshop on the Anthropocene and ancient environments, Prague 2025. Right: Table summarizing fish rations by city and period.
-</div>
 
----
 
 ## Publications and Outputs
 
