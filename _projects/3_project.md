@@ -18,8 +18,6 @@ The **CDLI Framework Update** (NEH Grant HAA-256224-17) was a transformative inf
 - **Accessibility and Community:** The new interface was designed for accessibility and informed by user surveys and testing. [Documentation](https://cdli.earth/docs) was expanded for all new features and data formats.
 - **Robust Deployment:** Infrastructure is now deployed with Docker, with backups at partner institutions worldwide.
 
-
-
 ## Impact
 
 - **Dramatic Growth:** The new framework was a game-changer—**in 2024, CDLI reached 2 million views, a tenfold increase over previous years**.

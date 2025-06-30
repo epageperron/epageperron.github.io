@@ -10,7 +10,7 @@ giscus_comments: false
 
 The **Access to Cuneiform Texts (CDLI-ACT)** project is building the first major open-access digital interface for the study and dissemination of cuneiform inscriptions in the Arabic language. Once completed, this resource will enable scholars and the public in the Arab world to access a digital catalogue of nearly 400,000 cuneiform artifacts from the Middle East, which are now dispersed across the globe.
 
-**Project duration:** February 2025 –  June 2026  
+**Project duration:** February 2025 – June 2026  
 **Budget:** £28,000  
 **Main applicants:** Dr. Rune Rattenborg (Lund University), Dr. Émilie Pagé-Perron (University of York), Prof. Haider ‘Aqīl ‘Abid, Prof. Jaafar Jotheri (Al-Qadisiyah University)  
 **Project staff:** Moudhy al-Rashid (Oxford), Zainab Mizyidawi, Zahra Dabaghmanesh, Lars Willighagen, Malath Feadha
@@ -41,8 +41,6 @@ The project is developed by a team of Assyriologists, archaeologists, digital hu
 - **WP6:** Testing and release with feedback from Arabic-speaking users.
 - **WP7:** Formal launch at the Rencontre Assyriologique Internationale, Baghdad, 2026.
 
-
-
 ## Why It Matters
 
 The cuneiform corpus is one of the largest bodies of ancient writing, but most resources are in Western languages and based in Europe or North America. CDLI-ACT will:
@@ -63,7 +61,5 @@ The cuneiform corpus is one of the largest bodies of ancient writing, but most r
 ---
 
 You can follow project progress, contribute, or support financially via the [Open Collective project page](https://opencollective.com/cdli/projects/cdli-act).
-
-
 
 For more information, visit [CDLI-ACT on Open Collective](https://opencollective.com/cdli/projects/cdli-act) or [CDLI](https://cdli.earth/).

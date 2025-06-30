@@ -64,8 +64,6 @@ The modern destruction of the southern Iraq marshes in the 1990s, through draina
 
 ---
 
-
-
 ## Publications and Outputs
 
 - Carr, C., Pagé-Perron, É., Dahl, J.L. _Human-Environment Interactions at the Dawn of the Anthropocene: A Case Study of Third-Millennium Fisheries in South-Western Asia_ (in preparation, John Fell Fund, Oxford)
