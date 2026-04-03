@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Émilie is a Research Associate at the Archaeological Data Service, University of York, and will begin a Research Fellow appointment there in June 2026. She holds affiliations with the Faculty of Asian and Middle Eastern Studies at the University of Oxford and the Max Planck Institute of Geoanthropology in Jena. She is also Co-Director of the Cuneiform Digital Library Initiative. 
+Émilie is a Research Associate at the Archaeological Data Service, University of York, and will begin a Research Fellow appointment there in June 2026. She holds an affiliation with the Max Planck Institute of Geoanthropology in Jena. She is also Co-Director of the Cuneiform Digital Library Initiative. 
 
 Her topical research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and computational linguistics of cuneiform languages. She reuses and develops cutting-edge technologies required to attain her research objectives and to preserve and render accessible digital cultural heritage.
 
