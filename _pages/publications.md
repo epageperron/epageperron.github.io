@@ -21,11 +21,4 @@ nav_order: 3
 
 </div>
 
-<script>
-  // Make the DOI and URL strings in the APA references clickable (progressive enhancement).
-  document.querySelectorAll(".publications .bib-entry").forEach(function (el) {
-    el.innerHTML = el.innerHTML.replace(/(https?:\/\/[^\s<\]]+?)([.,])?(?=\s|<|$|\])/g, function (m, url, punct) {
-      return '<a href="' + url + '">' + url + "</a>" + (punct || "");
-    });
-  });
-</script>
+{% include linkify_references.liquid %}
