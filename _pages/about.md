@@ -1,31 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Assyriologist and Digital Scholar
+subtitle: Digital Assyriology and open heritage infrastructure
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>Archaeology Data Service</p>
-    <p>Department of Archaeology</p>
-    <p>University of York</p>
-    <p>The King's Manor</p>
-    <p>Exhibition Square</p>
-    <p>York, YO1 7EP, UK</p>
-news: false # includes a list of news items
-latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+    <p>Research Fellow and Research Associate<br>
+    <a href="https://archaeologydataservice.ac.uk/">Archaeology Data Service</a><br>
+    Department of Archaeology<br>
+    <a href="https://pure.york.ac.uk/portal/en/persons/emilie-page-perron/">University of York</a></p>
+news: false
+latest_posts: false
+selected_papers: false
+social: true
 ---
 
-Émilie is a Research Associate at the Archaeological Data Service, University of York, and will begin a Research Fellow appointment there in June 2026. She holds an affiliation with the Max Planck Institute of Geoanthropology in Jena. She is also Co-Director of the Cuneiform Digital Library Initiative. 
+Émilie Pagé-Perron is a Research Fellow and Research Associate at the Archaeology Data Service, University of York, Co-Director of the [Cuneiform Digital Library Initiative](https://cdli.earth/) (CDLI), and a postdoctoral guest fellow of the Max Planck Institute of Geoanthropology.
 
-Her topical research interests encompass Mesopotamian social history, human-environment relationships, Sumerian philology, and computational linguistics of cuneiform languages. She reuses and develops cutting-edge technologies required to attain her research objectives and to preserve and render accessible digital cultural heritage.
+She works on the social and environmental history of third-millennium BCE Mesopotamia, Sumerian philology, and the computational study of cuneiform texts. She builds the infrastructure that keeps this heritage open and usable: the CDLI platform, linked open data and vocabularies, machine-assisted annotation and translation, and the ARIADNE research infrastructure for European archaeology.
 
-Émilie employs both a traditional philological approach and computational methods in her work. Although her education is based in the Humanities, she has developed strong expertise in information science, with a focus on data management and curation, natural language processing, linked open data, and network analysis.
+From 2026 she leads *Towards Universal Access to Cuneiform Heritage*, funded by the Meditor Trust, which widens access to cuneiform heritage in its countries of origin, starting with Arabic-speaking users of the CDLI.
 
-Her encompassing objective is to catalyse a culture shift towards open data and open knowledge, sharing and discovery. Her mission is to champion accessibility, synergy, and interoperability across diverse fields, focusing on the material culture and textual heritage of ancient societies. She is committed to advancing open access, developing innovative tools and workflows, and fostering global collaboration for the greater good. By leveraging linked open data and progressive technologies, she aims to empower diverse communities, enrich research practices, and contribute to a global scholarly network. 
-
-This commitment extends to the well-being of her family, community, and the environment, ensuring a sustainable and inclusive impact.
+Her aim is a culture of open data and shared stewardship for the material and textual heritage of ancient societies.

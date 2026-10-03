@@ -640,8 +640,23 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
+    width: 31.5%;
+    margin-bottom: 12px;
+  }
+
+  @media (max-width: 991px) {
+    .grid-sizer,
+    .grid-item {
+      width: 48%;
+    }
+  }
+
+  @media (max-width: 575px) {
+    .grid-sizer,
+    .grid-item {
+      width: 100%;
+      margin-bottom: 12px;
+    }
   }
 
   h2.category {
@@ -1117,4 +1132,178 @@ swiper-container {
   --swiper-navigation-color: var(--global-theme-color);
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
+}
+
+// Site-specific tweaks
+.projects .card-title {
+  text-transform: none;
+}
+.profile .more-info {
+  font-family: inherit;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+// CV timeline: let date ranges such as "06/2026 – 09/2029" fit in the badge
+.cv .timeline .badge,
+ul.timeline .badge {
+  white-space: nowrap;
+  min-width: 75px;
+  width: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  margin-right: 0.5rem;
+  text-transform: none;
+}
+// CV timeline: give the date column room for ranges such as "06/2026 – 09/2029"
+.cv .list-group-item > .row > div[style*="width: 75px"] {
+  width: 120px !important;
+  flex: 0 0 120px;
+  max-width: 120px;
+}
+.cv .list-group-item > .row > .col-md-10 {
+  flex: 1 1 0;
+  max-width: none;
+}
+@media (max-width: 767px) {
+  .cv .list-group-item > .row > div[style*="width: 75px"] {
+    width: 100% !important;
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: left !important;
+  }
+}
+// CV lists: no bullets, compact spacing
+.cv ul.items,
+.cv ul.subitems {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.35rem 0 0 0;
+}
+.cv ul.items li,
+.cv ul.subitems li {
+  margin-bottom: 0.45rem;
+  line-height: 1.5;
+}
+.cv ul.items li:last-child,
+.cv ul.subitems li:last-child {
+  margin-bottom: 0;
+}
+.cv .list-group-item h5.font-italic {
+  margin-top: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+.cv .list-group-item .ml-md-4 + div,
+.cv .list-group-item .institution + div {
+  margin-top: 0.25rem;
+}
+.cv h3 .count,
+.cv h5 .count {
+  font-style: normal;
+  font-weight: 400;
+  color: var(--global-text-color-light);
+  font-size: 0.85em;
+}
+// Code page: repository cards in an even grid that fills the content width
+.repositories {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem 1rem;
+  align-items: stretch;
+}
+.repositories .repo {
+  max-width: none;
+  padding: 0 !important;
+}
+.repositories .repo img {
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 991px) {
+  .repositories {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 575px) {
+  .repositories {
+    grid-template-columns: 1fr;
+  }
+}
+
+// Hand-made card for GitLab projects, matching the GitHub pin cards
+.repo-card-link { text-decoration: none; display: block; }
+.repo-card {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  padding: 0.9rem 1rem;
+  text-align: left;
+  background: var(--global-card-bg-color);
+  color: var(--global-text-color);
+  min-height: 110px;
+  font-size: 0.8rem;
+}
+.repo-card-title { font-weight: 600; font-size: 0.9rem; color: var(--global-theme-color); margin-bottom: 0.35rem; }
+.repo-card-title i { margin-right: 0.3rem; }
+.repo-card-desc { color: var(--global-text-color-light); margin-bottom: 0.6rem; line-height: 1.35; }
+.repo-card-meta { display: flex; flex-wrap: wrap; gap: 0.9rem; color: var(--global-text-color-light); }
+.repo-card-meta i { margin-right: 0.25rem; }
+.repo-lang-dot { display: inline-block; width: 0.65rem; height: 0.65rem; border-radius: 50%; margin-right: 0.3rem; vertical-align: middle; }
+.repo-card-link:hover .repo-card { border-color: var(--global-theme-color); }
+
+// Code page: equal-height cards and breathing room between sections
+.repositories { margin-bottom: 1.75rem; }
+.repositories .repo,
+.repositories .repo-card-link,
+.repositories .repo-card { height: 100%; }
+.repositories .repo-card { display: flex; flex-direction: column; }
+.repositories .repo-card-meta { margin-top: auto; }
+// Home: cap the portrait size on wide screens and stack the info lines
+@media (min-width: 576px) {
+  .profile {
+    max-width: 220px;
+  }
+}
+.profile .more-info {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+.profile .more-info p {
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+// Home: keep the text column readable on wide screens
+.about-page {
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Publications page: bibliography-style entries with hanging indent
+.publications .bib-entry {
+  padding-left: 2rem;
+  text-indent: -2rem;
+  margin-bottom: 0.7rem;
+  line-height: 1.5;
+  font-size: 0.95rem;
+}
+.publications .bib-entry a { word-break: break-word; }
+.publications .bib-note {
+  color: var(--global-text-color-light);
+  margin-left: 0.4rem;
+}
+.publications .bib-note::before { content: "["; }
+.publications .bib-note::after { content: "]"; }
+.publications h2 {
+  font-size: 1.4rem;
+  margin: 2rem 0 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+// Project pages: hero image under the title
+.project-hero img {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  object-position: top;
 }

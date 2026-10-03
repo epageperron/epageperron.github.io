@@ -1,356 +1,456 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Émilie Pagé-Perron
+    - name: Position
+      value: Research Fellow and Research Associate, Archaeology Data Service, Department of Archaeology, University of York
+    - name: Also
+      value: Co-Director, Cuneiform Digital Library Initiative<br>Postdoctoral Guest Fellow, Max Planck Institute of Geoanthropology
     - name: Email
       value: emilie.page-perron@york.ac.uk
-    - name: Affiliation
-      value: Archaeological Data Service, Department of Archaeology, University of York
+    - name: Profiles
+      links:
+        - name: University of York (Pure)
+          link: https://pure.york.ac.uk/portal/en/persons/emilie-page-perron/
+        - name: ORCID
+          link: https://orcid.org/0000-0002-9878-9200
+        - name: Google Scholar
+          link: https://scholar.google.com/citations?user=FKctlrsAAAAJ
     - name: Languages
-      value: French (native), English (near-native), German (basic proficiency)
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. Near and Middle Eastern Civilizations
-      institution: University of Toronto, Canada
-      year: 2024
-      description:
-        - "Dissertation: The Pantheons of Adab"
-        - "Advisor: Paul-Alain Beaulieu"
-    - title: M.A. Mesopotamian Studies
-      institution: University of Geneva, Switzerland
-      year: 2012
-      description:
-        - "Thesis: The Fish Industry in Early Dynastic Lagash"
-        - "Advisor: Antoine Cavigneaux"
-    - title: B.A. Religiology
-      institution: Université du Québec à Montréal, Canada
-      year: 2007
-      description:
-        - "Thesis: The Kallu Doms of Varanasi (including field research)"
+      value: French (native), English (near-native), German (basic), Arabic (beginner)
 
-- title: Professional Appointments
+- title: Appointments
   type: time_table
   contents:
-    - title: Data Engineer
-      institution: Archaeological Data Service, University of York
-      year: 04/2024 - 12/2027
     - title: Research Fellow
-      institution: Faculty of Asian and Middle Eastern Studies, Oxford University
-      year: 01/2024 - 01/2025
+      institution: Archaeology Data Service, Department of Archaeology, University of York
+      year: 06/2026 – 09/2029
+    - title: Research Associate
+      institution: Archaeology Data Service, Department of Archaeology, University of York
+      year: 12/2025 – 12/2027
+    - title: Data Engineer
+      institution: Archaeology Data Service, Department of Archaeology, University of York
+      year: 04/2024 – 12/2025
+    - title: Research Fellow
+      institution: Faculty of Asian and Middle Eastern Studies, University of Oxford
+      year: 01/2024 – 01/2025
     - title: Junior Research Fellow of Assyriology
-      institution: Wolfson College, Oxford University
-      year: 11/2020 - 01/2024
+      institution: Wolfson College, University of Oxford
+      year: 11/2020 – 01/2024
     - title: Staff Research Associate
       institution: Department of Near Eastern Cultures and Civilizations, UCLA
-      year: 08/2018 - 06/2019
+      year: 08/2018 – 06/2019
 
 - title: Other Affiliations
   type: time_table
   contents:
     - title: Postdoctoral Guest Fellow
-      institution: Max Planck Institute of Geoanthropology
-      year: 02/2025 - 02/2030
+      institution: Max Planck Institute of Geoanthropology, Jena
+      year: 02/2025 – 02/2030
     - title: Research Associate
-      institution: Faculty of Asian and Middle Eastern Studies, Oxford University
-      year: 01/2025 - 01/2026
+      institution: Faculty of Asian and Middle Eastern Studies, University of Oxford
+      year: 01/2025 – 01/2026
     - title: Predoctoral Guest Fellow
       institution: Max Planck Institute for the History of Science, Berlin
-      year: 11/2021 - 09/2023
+      year: 11/2021 – 09/2023
 
-- title: Award
+- title: Education
   type: time_table
   contents:
-    - year: 2023
-      items:
-        - Emerging Open Scholarship Award (Canadian Social Knowledge Institute)
+    - title: Ph.D., Near and Middle Eastern Civilizations
+      institution: University of Toronto
+      year: 2024
+      maindescription: "Dissertation: The Pantheons of Adab. Advisor: Paul-Alain Beaulieu"
+    - title: M.A., Mesopotamian Studies
+      institution: University of Geneva
+      year: 2012
+      maindescription: "Thesis: The Fish Industry in Early Dynastic Lagash. Advisor: Antoine Cavigneaux"
+    - title: B.A., Religious Studies
+      institution: Université du Québec à Montréal
+      year: 2007
+      maindescription: "Thesis: The Kallu Doms of Varanasi, with field research. Advisor: Mathieu Boisvert"
 
 - title: Research Grants
   type: time_table
   contents:
-    - title: Co-PI, Access to Cuneiform Texts (ACT) project
-      institution: The British Institute for the Study of Iraq, London
-      year: 2025-2026
-      description:
-        - £5,740
-    - title: Co-PI, Access to Cuneiform Texts (ACT) project
-      institution: General Fund for Assyriology, Wolfson College, University of Oxford
-      year: 2025-2026
-      description:
-        - £5,000
-    - title: Researcher Co-Investigator, “Toward Cuneiform Insights into the Dawn of the Anthropocene”
-      institution: John Fell Fund
-      year: 2024-2025
-      description:
-        - £52,000
-    - title: Co-Applicant, “Broadening Participation to the Cuneiform Digital Library Initiative Project”
-      institution: John Fell Fund, Wolfson College General Fund for Assyriology
-      year: 2021-2023
-      description:
-        - £15,000
-    - title: Principal Investigator, Seed grant for the "Linked Dictionaries" project
-      institution: General Fund for Assyriology, Wolfson College, University of Oxford
-      year: 2021-2022
-      description:
-        - £1,500
+    - title: Principal Investigator, Towards Universal Access to Cuneiform Heritage
+      institution: Meditor Trust
+      icon: handshake
+      year: 2026 – 2029
+      maindescription: £575,266
+    - title: Co-Principal Investigator, Iraqi Heritage Collections Care and Digital Stewardship Network
+      institution: British Institute for the Study of Iraq
+      icon: handshake
+      year: 2026 – 2027
+      maindescription: "Cuneiform Editions and Digital Publication Pilot. £8,880"
+    - title: Co-Principal Investigator, Access to Cuneiform Texts (ACT)
+      institution: Wolfson College General Fund for Assyriology, British Institute for the Study of Iraq, Meditor Trust
+      icon: handshake
+      year: 2025 – 2026
+      maindescription: £17,340
+    - title: Researcher Co-Investigator, Toward Cuneiform Insights into the Dawn of the Anthropocene
+      institution: John Fell Fund, University of Oxford
+      icon: handshake
+      year: 2024 – 2025
+      maindescription: £52,000
+    - title: Co-Applicant, Broadening Participation to the Cuneiform Digital Library Initiative
+      institution: John Fell Fund, with Wolfson College General Fund for Assyriology
+      icon: handshake
+      year: 2021 – 2023
+      maindescription: £15,000
+    - title: Principal Investigator, Linked Dictionaries (seed grant)
+      institution: Wolfson College General Fund for Assyriology
+      icon: handshake
+      year: 2021 – 2022
+      maindescription: £1,500
+
+- title: Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - <a href="https://etcl.uvic.ca/2023/01/17/2023-open-scholarship-awards/">Emerging Open Scholarship Award</a>, Canadian Social Knowledge Institute
 
 - title: Publications
+  count: true
   type: nested_list
   contents:
-    - title: Peer-Reviewed Articles, Chapters, and Proceedings
+    - title: Peer-reviewed articles, chapters and proceedings
       items:
-        - "2025 (under review): Page-Perron, Émilie. “Network Analysis Application in Light of Historical Knowledge.” In Routledge Handbook of the Ancient Near East and The Social Sciences."
-        - "2025 (under review): Laurie Pearce, Saana Svärd, Caroline Waerzeggers, Tero Alstola, Adam Anderson, Heather Baker, Elena Devecchi, Carlos Gonçalves, Shai Gordin, Melanie Groß, Heidi Jauhiainen, John Nielsen, Émilie Pagé-Perron, Seth Richardson, Erica Scarpa, and Jonathan Tenney. “White paper on prosopographical studies in the Ancient Near East.” Cuneiform Digital Library Journal."
-        - "2025 (in press): Émilie Pagé-Perron. “Expanding Digital Assyriology with Open Access and Machine Learning.” Digital Humanities Quarterly."
-        - "2022: Fahad Khan, Christian Chiarcos, Thierry Declerck, Daniela Gifu, Elena González-Blanco García, Jorge Gracia, Max Ionov, Penny Labropoulou, Francesco Mambrini, John McCrae, Émilie Pagé-Perron, Marco Passarotti, Salvador Ros, Ciprian-Octavian Truica. “When Linguistics Meets Web Technologies. Recent advances in Modelling Linguistic Linked Open Data.” Semantic Web 13(6), 987-1050."
-        - "2021: Bansal, Rachit, Himanshu Choudhary, Ravneet Punia, Niko Schenk, Jacob L. Dahl, Émilie Pagé-Perron. “How Low is Too Low? A Computational Perspective on Extremely Low-Resource Languages.” Association of Computational Linguistics-IJCNLP Student Research Workshop Proceedings."
-        - "2020: Ravneet Punia, Niko Schenk, Christian Chiarcos, Émilie Pagé-Perron. “Towards the First Machine Translation System for Sumerian Transliterations.” Proceedings of the 28th International Conference on Computational Linguistics, pp. 3454–3460."
-        - "2018: Émilie Pagé-Perron. “Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora.” In Vanessa Juloux, Amy Gansell, and Alessandro di Ludovico (eds.), CyberResearch on the Ancient Near East and Eastern Mediterranean. Brill."
-        - "2018: Christian Chiarcos, Émilie Pagé-Perron, Ilya Khait, Niko Schenk, Lucas Reckling. “Towards a Linked Open Data Edition of Sumerian Corpora.” Proceedings of the Language Resources and Evaluation Conference."
-        - "2018: Christian Chiarcos, Ilya Khait, Émilie Pagé-Perron, Niko Schenk, Jayanth, Lucas Reckling. “Annotating Sumerian: A LLOD-enhanced Workflow for Cuneiform Corpora.” Proceedings of the 6th Workshop on Linked Data in Linguistics (LDL-2018)."
-        - "2017: Émilie Pagé-Perron, Maria Sukhareva, Ilya Khait, Christian Chiarcos. “Machine Translation and Automated Analysis of the Sumerian Language.” LaTeCH-CLfL workshop, Association for Computational Linguistics (ACL) Anthology."
-    - title: In Preparation
+        - "2028 (under review). <strong>From Siloed Scholarship to Shared Stewardship. Rethinking Data Ethics in Digital Humanities: The Case of Assyriology.</strong> Pagé-Perron, É. and Rattenborg, R. <em>Digital Debates</em>."
+        - "2026 (in press). <strong>Expanding Digital Assyriology with Open Access and Machine Learning.</strong> Pagé-Perron, É. <em>Digital Humanities Quarterly</em>."
+        - "2026. <strong>The Cuneiform Digital Library Initiative (CDLI): A Free Database of All Cuneiform Texts</strong> [in Arabic]. Rattenborg, R., Pagé-Perron, É., Dahl, J. L. et al. <em>Isin Journal for Archaeology, History and Ancient Languages</em>, FirstView. <a href=\"https://doi.org/10.70230/nffpyt62\">doi</a>"
+        - "2026 (in press). <strong>White Paper on Prosopographical Studies in the Ancient Near East.</strong> Pearce, L., Svärd, S., Waerzeggers, C. et al. <em>Cuneiform Digital Library Journal</em> 2026:2."
+        - "2026 (submitted). <strong>From Cuneiform Tablets to Knowledge Graphs: Assyriological Metadata Standards in Context.</strong> Pagé-Perron, É. In <em>Entangled Rivers: A Multi-Layered Portrait of Southern Mesopotamia</em>, Schriften zur Vorderasiatischen Archäologie."
+        - "2022. <strong>When Linguistics Meets Web Technologies. Recent Advances in Modelling Linguistic Linked Open Data.</strong> Khan, F., Chiarcos, C., Declerck, T. et al. <em>Semantic Web</em> 13(6), 987–1050. <a href=\"https://doi.org/10.3233/SW-222859\">doi</a>"
+        - "2021. <strong>How Low is Too Low? A Computational Perspective on Extremely Low-Resource Languages.</strong> Bansal, R., Choudhary, H., Punia, R. et al. <em>ACL-IJCNLP 2021 Student Research Workshop</em>. <a href=\"https://aclanthology.org/2021.acl-srw.5/\">ACL Anthology</a>"
+        - "2020. <strong>Towards the First Machine Translation System for Sumerian Transliterations.</strong> Punia, R., Schenk, N., Chiarcos, C. and Pagé-Perron, É. <em>Proceedings of COLING 2020</em>, 3454–3460. <a href=\"https://aclanthology.org/2020.coling-main.308/\">ACL Anthology</a>"
+        - "2018. <strong>Annotating a Low-Resource Language with LLOD Technology: Sumerian Morphology and Syntax.</strong> Chiarcos, C., Khait, I., Pagé-Perron, É. et al. <em>Information</em> 9(11), 290. <a href=\"https://doi.org/10.3390/info9110290\">doi</a>"
+        - "2018. <strong>Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora.</strong> Pagé-Perron, É. In V. Bigot Juloux, A. R. Gansell and A. di Ludovico (eds), <em>CyberResearch on the Ancient Near East and Neighboring Regions</em>, 194–223. Leiden: Brill. <a href=\"https://doi.org/10.1163/9789004375086_008\">doi</a>"
+        - "2018. <strong>Towards a Linked Open Data Edition of Sumerian Corpora.</strong> Chiarcos, C., Pagé-Perron, É., Khait, I. et al. <em>Proceedings of LREC 2018</em>. <a href=\"https://aclanthology.org/L18-1387/\">ACL Anthology</a>"
+        - "2018. <strong>Annotating Sumerian: A LLOD-enhanced Workflow for Cuneiform Corpora.</strong> Chiarcos, C., Khait, I., Pagé-Perron, É. et al. <em>Proceedings of the 6th Workshop on Linked Data in Linguistics (LDL-2018)</em>."
+        - "2017. <strong>Machine Translation and Automated Analysis of the Sumerian Language.</strong> Pagé-Perron, É., Sukhareva, M., Khait, I. and Chiarcos, C. <em>Proceedings of LaTeCH-CLfL 2017</em>. <a href=\"https://aclanthology.org/W17-2202/\">ACL Anthology</a>"
+    - title: Other publications and reports
       items:
-        - "2025: Émilie Pagé-Perron and Rune Rattenborg. “Cuneiform Histories: The Harrogate and Swansea Collections at the Egypt Centre, Swansea University, United Kingdom.” To be submitted to Zeitschrift für Assyriologie und Vorderasiatische Archäologie."
-        - "2025: Christie Carr, Émilie Pagé-Perron, and Jacob L. Dahl. “Human-Environment Interactions at the Dawn of the Anthropocene: A Case Study of Third-Millennium Fisheries in South-Western Asia.”"
-    - title: Datasets, Software, and Digital Outputs
+        - "2026 (in press). <strong>Network Analysis Application in Light of Historical Knowledge.</strong> Pagé-Perron, É. In <em>Routledge Handbook of the Ancient Near East and the Social Sciences</em>, part II, section 6c."
+        - "2026. <strong>Advanced Digital Workflows for Archaeology.</strong> Pagé-Perron, É. and Richards, J. <em>The Archaeologist</em> 127 (CIfA Information Management SIG issue). <a href=\"https://www.archaeologists.net/system/files/uploads/TA-127-website.pdf\">pdf</a>"
+        - "2025. <strong>ATRIUM Interim Report on Demonstrators.</strong> Pagé-Perron, É. et al. 93 pp. <a href=\"https://doi.org/10.5281/zenodo.17900561\">Zenodo</a>"
+        - "2025. <strong>The Cuneiform Digital Library Initiative: A Primer.</strong> Rattenborg, R. and Pagé-Perron, É. International Association for Assyriology. <a href=\"https://doi.org/10.5281/zenodo.15309737\">Zenodo</a>"
+        - "2020. <strong>Cuneiform Digital Library Initiative Framework Update: White Paper.</strong> Pagé-Perron, É. NEH grant HAA-256224-17, UCLA. <a href=\"https://awardsearch.neh.gov/AwardDetail.aspx?gn=HAA-256224-17\">NEH</a>"
+    - title: In preparation
       items:
-        - "Lead: https://cdli.earth (Cuneiform Digital Library Initiative website)"
-        - "Lead: https://gitlab.com/cdli/framework (CDLI Framework)"
-        - "Lead: https://github.com/cdli-gh/data (CDLI Data Dumps)"
-        - "Lead: https://github.com/cdli-gh/conll2graphml (Network graph from co-occurring individuals in texts)"
-        - "Lead: https://github.com/cdli-gh/atf2conc (Text processing for KWIK/concordance software)"
-        - "Team member: https://cdli.mpiwg-berlin.mpg.de/resources/sparql (CDLI Knowledge Graph)"
-        - "Team member: https://cdli.eartn/docs (CDLI documentation)"
-        - "Team member: https://github.com/cdli-gh/framework-api-client (API client for CDLI data)"
-        - "Team member: https://github.com/cdli-gh/Sumerian-Translation-Pipeline (Sumerian translation pipeline)"
-        - "Team member: https://github.com/cdli-gh/glow_vocabularies (Domain vocabularies)"
-        - "Team member: https://github.com/ARIADNE-Infrastructure/AO-Cat-Ontology (CIDOC-based ontology)"
-        - "Team member: https://ariadne-portal.d4science.org/ (ARIADNE portal datasets)"
-        - "Team member: https://github.com/cdli-gh/mtaac_gold_corpus (Manually annotated Sumerian corpus)"
-        - "Team member: https://github.com/cdli-gh/atf2conll-convertor (Text to annotation format converter)"
-        - "Team member: https://github.com/cdli-gh/morphology-pre-annotation-tool (Morphological annotator)"
-        - "Team member: https://github.com/cdli-gh/annotation_assistant (Annotation workflow tool)"
+        - "<strong>Cuneiform Histories: The Harrogate and Swansea Collections at the Egypt Centre, Swansea University.</strong> Pagé-Perron, É. and Rattenborg, R. For <em>Zeitschrift für Assyriologie</em>."
+        - "<strong>Towards Arabizing the Cuneiform Digital Library Initiative (CDLI): Vision, Methodology, and Impact on Arabic Assyriological Studies.</strong> Rattenborg, R., Pagé-Perron, É., Aqeel, H. and Jotheri, J. For <em>Athar al-Rafedain</em>."
+        - "<strong>Human-Environment Interactions at the Dawn of the Anthropocene: A Case Study of Third-Millennium Fisheries in South-Western Asia.</strong> Carr, C., Pagé-Perron, É. and Dahl, J. L."
+        - "<strong>The Cuneiform Special Collection at the Library of the University of Leeds.</strong> Pagé-Perron, É."
     - title: Theses
       items:
-        - "2024: Émilie Pagé-Perron. The Pantheons of Adab. PhD Dissertation, University of Toronto."
-        - "2012: Émilie Pagé-Perron. The Fish Industry in Early Dynastic Lagash. MA Thesis, University of Geneva."
-        - "2007: Émilie Pagé-Perron. Les Kallu Doms de Varanasi. BA Thesis, Université du Québec à Montréal."
+        - "2024. <strong>The Pantheons of Adab.</strong> Ph.D. dissertation, University of Toronto."
+        - "2012. <strong>L'industrie de la pêche à Lagash à la période protodynastique.</strong> M.A. thesis, University of Geneva."
+        - "2007. <strong>Les Kallu Doms de Varanasi.</strong> B.A. thesis, Université du Québec à Montréal."
 
-- title: Panels and Workshops Organized
+- title: Software, Websites and Datasets
+  count: true
+  type: nested_list
+  contents:
+    - title: CDLI platform
+      items:
+        - "<a href=\"https://cdli.earth\">cdli.earth</a>, the Cuneiform Digital Library Initiative website. Lead."
+        - "<a href=\"https://gitlab.com/cdli/framework\">CDLI framework</a>, the open-source platform behind the site, in active development since 2017. Lead."
+        - "<a href=\"https://cdli.earth/docs\">Documentation</a> and <a href=\"https://cdli.earth/resources/sparql\">knowledge graph with SPARQL endpoint</a>. Team."
+        - "<a href=\"https://github.com/cdli-gh/framework-api-client\">API client</a> and <a href=\"https://github.com/cdli-gh/data\">data releases</a>, the daily catalogue and text dumps now served through the API. Lead on data, team on client."
+    - title: MTAAC outputs, Sumerian natural language processing (2017–2021)
+      items:
+        - "<a href=\"https://github.com/cdli-gh/Sumerian-Translation-Pipeline\">Sumerian translation pipeline</a>: part-of-speech tagging, named-entity recognition and machine translation for Ur III texts. Team."
+        - "<a href=\"https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English\">Semi-supervised NMT for Sumerian–English</a> and <a href=\"https://github.com/cdli-gh/Machine-Translation\">neural machine translation</a> experiments. Mentor."
+        - "<a href=\"https://github.com/cdli-gh/mtaac_gold_corpus\">Gold corpus</a>, <a href=\"https://github.com/cdli-gh/mtaac_syntax_corpus\">dependency syntax corpus</a> and <a href=\"https://github.com/cdli-gh/mtaac_cdli_ur3_corpus\">Ur III corpus</a> of manually annotated Sumerian. Team."
+        - "Annotation tools: <a href=\"https://github.com/cdli-gh/atf2conll-convertor\">atf2conll</a>, <a href=\"https://github.com/cdli-gh/morphology-pre-annotation-tool\">morphology pre-annotation</a>, <a href=\"https://github.com/cdli-gh/annotation_assistant\">annotation assistant</a>, <a href=\"https://github.com/cdli-gh/brat_to_cdli_conll_converter\">Brat to CoNLL converter</a>, <a href=\"https://github.com/cdli-gh/conllu.py\">conllu.py</a>. Team and mentor."
+        - "<a href=\"https://github.com/cdli-gh/mtaac\">Project website</a> and <a href=\"https://github.com/cdli-gh/mtaac_work\">work packages</a>. Lead."
+    - title: Research tools
+      items:
+        - "<a href=\"https://github.com/cdli-gh/conll2graphml\">conll2graphml</a>, network graphs of people co-occurring in texts, used for the Adab prosopography. Lead."
+        - "<a href=\"https://github.com/cdli-gh/atf2conc\">atf2conc</a>, text preparation for concordance software. Lead."
+        - "<a href=\"https://github.com/epageperron/cuneiform_mining\">cuneiform_mining</a>, database and interface to collect, standardise, mine and visualise cuneiform data. Lead."
+        - "<a href=\"https://github.com/epageperron/UrIIIPro\">UrIIIPro</a>, Ur III provenience classification in R. Lead."
+    - title: Vocabularies and ontologies
+      items:
+        - "<a href=\"https://github.com/cdli-gh/glow_vocabularies\">GLoW vocabularies</a> for inscribed artefact metadata. Team."
+        - "<a href=\"https://doi.org/10.5281/zenodo.15268834\">AO-Cat ontology</a>, the CIDOC CRM based ontology of the ARIADNE catalogue. Team."
+    - title: Archaeological data infrastructure
+      items:
+        - "<a href=\"https://ariadne-portal.d4science.org/\">ARIADNE portal</a>, ingestion and mapping of partner datasets, including CDLI records. Team."
+        - "<a href=\"https://github.com/uoy-ads/welsh-trusts-greylit\">welsh-trusts-greylit</a>, ingest of Welsh Trusts grey literature into the ADS Library. Lead."
+        - "<a href=\"https://github.com/Diyala-OI/interface\">Diyala interface</a>, map-based navigation of the Diyala Project small finds. Lead."
+    - title: Mentored projects (Google Summer of Code and students, 2018–2022)
+      items:
+        - "<a href=\"https://github.com/cdli-gh/Cuneiform-OCR\">Cuneiform OCR</a>, line and sign detection on tablet images."
+        - "<a href=\"https://github.com/cdli-gh/cdli-mobile-app\">CDLI mobile app</a> and <a href=\"https://github.com/cdli-gh/cdli-tablet-app\">tablet app</a>."
+        - "<a href=\"https://github.com/cdli-gh/pyoracc\">pyoracc</a>, Python tools for working with ATF."
+        - "<a href=\"https://github.com/cdli-gh/coco-convertor\">coco-convertor</a>, converts COCO image annotations to the open annotation format."
+        - "<a href=\"https://github.com/cdli-gh/pub_file_entity_extractor\">Publication entity extractor</a>, finds CDLI entities in publication PDFs."
+        - "<a href=\"https://github.com/cdli-gh/publication-merging\">Publication merging</a>, de-duplication of bibliographic records."
+        - "<a href=\"https://github.com/cdli-gh/database-schema\">Temporal data schema</a>, granular temporal data management for the CDLI."
+
+- title: Panels and Workshops Organised
+  count: true
   type: time_table
   contents:
     - year: 2026
       items:
-        - "“Commoning the digital and public space: Activism for sustainable preservation.” Nordic Theory in Action (TAG), Kalmar, Sweden, May 6-9. [with Anne Baillot and Megan Black]"
+        - "Access to Cuneiform Texts workshops, universities of Al-Qadisiyah, Babil, Baghdad and Mosul, Iraq. With Jaafar Jotheri, Haider Aqeel and Rune Rattenborg."
     - year: 2025
       items:
-        - "“Towards adaptation: environmental sustainability in archaeological workflows.” Theory in Action (TAG), Theoretical Archaeology Group Annual Meeting, York, Dec 15-17. [with Anne Baillot]"
-        - "“Writing the Dawn of the Anthropocene.” Rencontre Assyriologique Internationale 70, Prague, July 7-11. [with Christie Carr and Rune Rattenborg]"
-        - "“Reusable Digital Research Workflows for Archaeology, Computer Applications and Quantitative Methods in Archaeology.” CAA Conference, Athens, May 5-9. [with Agiatis Benardou, Anne Baillot & Julian Richards]"
+        - "Towards Adaptation: Environmental Sustainability in Archaeological Workflows. Theoretical Archaeology Group, York, 15–17 December. With Anne Baillot."
+        - "Writing the Dawn of the Anthropocene. Rencontre Assyriologique Internationale 70, Prague, 7–11 July. With Christie Carr and Rune Rattenborg."
+        - "Reusable Digital Research Workflows for Archaeology. Computer Applications and Quantitative Methods in Archaeology (CAA), Athens, 5–9 May. With Agiatis Benardou, Anne Baillot and Julian Richards."
     - year: 2023
       items:
-        - "“Cuneiform in the Age of Digital Archaeology: Online Resources for the Integration of Text and Material Culture Workshop.” ICAANE, Copenhagen, May 22-26. [with Rune Rattenborg]"
-    - year: 2021-2022
+        - "Cuneiform in the Age of Digital Archaeology: Online Resources for the Integration of Text and Material Culture. ICAANE, Copenhagen, 22–26 May. With Rune Rattenborg."
+    - year: 2021 – 2022
       items:
-        - "“Vocabularies Consortium.” Three workshops of the Geomapping Landscapes of Writing project, virtual/Uppsala/Oxford. [with Rune Rattenborg and Adam Anderson]"
+        - "Vocabularies Consortium, three workshops of the Geomapping Landscapes of Writing project, online, Uppsala and Oxford. With Rune Rattenborg and Adam Anderson."
     - year: 2018
       items:
-        - "“Methodological Developments in Prosopographical Studies” Workshop. Rencontre Assyriologique Internationale, Innsbruck, July 16-20."
+        - "Methodological Developments in Prosopographical Studies. Rencontre Assyriologique Internationale, Innsbruck, 16–20 July."
     - year: 2017
       items:
-        - "“Text as Data: Digital Humanities for Text Analysis.” American Oriental Society, Los Angeles, Mar 17-20. [with Timothy Bellefleur]"
+        - "Text as Data: Digital Humanities for Text Analysis. American Oriental Society, Los Angeles, 17–20 March. With Timothy Bellefleur."
 
 - title: Invited Talks
+  count: true
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - "Access at the Cuneiform Digital Library Initiative. Digital Applications in Assyriology Nordic Summer School, University of Copenhagen, 1–5 June."
+        - "Access Improvements to Digital Cuneiform Heritage. Department of Archaeology, Durham University, 26 May."
+        - "Access and 'Digital Repatriation' of Cuneiform Heritage. DAH Lab Digital Lunch, Department of Archaeology, University of York, 27 March."
     - year: 2025
       items:
-        - "“From cuneiform tablets to knowledge graphs: Assyriological metadata standards in context.” 1st International Conference of the SNSF Sinergia Project Hydrography of Mesopotamia, Bern, Oct 16-19."
+        - "Linked Open Data in Cuneiform Studies: Present and Future. London Centre for the Ancient Near East seminar, 15 December."
+        - "Documentation and Data Management (panel). Digital Heritage Conference, Riyadh, 9–10 December."
+        - "Digital Cuneiform: Consolidation, Research, and Perspectives. Interdisciplinary Linguistics Colloquium, Augsburg, 12 November."
+        - "From Cuneiform Tablets to Knowledge Graphs: Assyriological Metadata Standards in Context. Hydrography of Mesopotamia (HyMes) conference, Bern, 16–19 October."
     - year: 2024
       items:
-        - "“Use and reuse of Information Extraction (IE) and other computational approaches to cuneiform text.” Computational and Digital Archaeology Lab (CDAL), University of Cambridge, Nov 4."
+        - "Use and Reuse of Information Extraction and Other Computational Approaches to Cuneiform Text. Computational and Digital Archaeology Lab, University of Cambridge, 4 November."
     - year: 2023
       items:
-        - "“Using the Cuneiform Digital Library Initiative in your research workflow.” Digital Applications in Assyriology Nordic Summer School, Helsinki, Aug 18."
-        - "“From Clay to Bytes, Ancient Cuneiform in the Age of AI.” Digital Humanities Summer School at Oxford, University of Oxford, July 6."
+        - "Using the Cuneiform Digital Library Initiative in Your Research Workflow. Digital Applications in Assyriology Nordic Summer School, Helsinki, 18 August."
+        - "From Clay to Bytes: Ancient Cuneiform in the Age of AI. Digital Humanities Summer School, University of Oxford, 6 July."
     - year: 2022
       items:
-        - "“Sustainability and Success at the Cuneiform Digital Library Initiative (CDLI).” Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe, Hamburg, Oct 19-21."
-        - "“The Cuneiform Digital Library Initiative (CDLI).” Digital Applications in Assyriology Nordic Summer School, Uppsala, Aug 1-2."
-        - "“From Clay to Bytes, Ancient Cuneiform in the Age of AI.” Digital Humanities Summer School at Oxford, University of Oxford, July 12."
-        - "“All the Things They Wrote on Clay: Exploring the Quantitative Dimensions of the Cuneiform Corpus.” Uppsala University, June 16."
-        - "“The pantheons of Adab: texts and contexts.” Topics in Egyptology and Ancient Near Eastern Studies Lecture Series, University of Oxford, June 7."
+        - "Sustainability and Success at the Cuneiform Digital Library Initiative. Zugang gestalten!, Hamburg, 19–21 October."
+        - "The Cuneiform Digital Library Initiative. Digital Applications in Assyriology Nordic Summer School, Uppsala, 1–2 August."
+        - "From Clay to Bytes: Ancient Cuneiform in the Age of AI. Digital Humanities Summer School, University of Oxford, 12 July."
+        - "All the Things They Wrote on Clay: Exploring the Quantitative Dimensions of the Cuneiform Corpus. Uppsala University, 16 June. With Rune Rattenborg and Seraina Nett."
+        - "The Pantheons of Adab: Texts and Contexts. Topics in Egyptology and Ancient Near Eastern Studies, University of Oxford, 7 June."
     - year: 2021
       items:
-        - "“Digital Library Organization and Accessibility.” Future Philology: Digitization and Beyond, University of Oxford, Sep 30 - Oct 1."
-        - "“The Cuneiform Digital Library Initiative - Infrastructure.” Status quo und aktuelle Entwicklungen zu digitalen Keilschrifteditionen, Universität Mainz, Mar 1-2."
+        - "Digital Library Organization and Accessibility. Future Philology: Digitization and Beyond, University of Oxford, 30 September – 1 October."
+        - "The Cuneiform Digital Library Initiative: Infrastructure. Status quo und aktuelle Entwicklungen zu digitalen Keilschrifteditionen, Mainz, 1–2 March."
     - year: 2020
       items:
-        - "“Cuneiform Digital Library Initiative Bibliography Management.” Metadata in Assyriology, Uppsala University, Nov 23-26."
-        - "“The Cuneiform Digital Library Initiative.” TextWorlds Seminar Series: Cuneiform, Uppsala University, Oct 21."
-        - "“Machine Translation and Automated Analysis of Cuneiform Languages.” Digging into Data Challenge Conference, NSF, Alexandria DC, Jan 29-31."
+        - "Cuneiform Digital Library Initiative Bibliography Management. Metadata in Assyriology, Uppsala, 23–26 November."
+        - "The Cuneiform Digital Library Initiative. TextWorlds seminar, Uppsala, 21 October."
+        - "Machine Translation and Automated Analysis of Cuneiform Languages. Digging into Data Challenge conference, National Science Foundation, Alexandria VA, 29–31 January."
     - year: 2019
       items:
-        - "“New Technologies for Cuneiform Studies: Processing & Linking Textual Data.” UC Berkeley, Apr 8."
-        - "“Sumerian Annotation Workshop.” [With Jinyan Wang and Ilya Khait] UC Berkeley, Apr 8."
+        - "New Technologies for Cuneiform Studies: Processing and Linking Textual Data, and Sumerian Annotation Workshop (with Jinyan Wang and Ilya Khait). UC Berkeley, 8 April."
     - year: 2018
       items:
-        - "“Pre-requisites and Workflow for the Machine Translation of the Sumerian Language.” Future Philologies Workshop, ISAW New York, Apr 20."
-        - "“Recent Developments in Natural Language Processing for Cuneiform Languages.” Venice, Mar 27-28."
-        - "“Le projet MTAAC: traduction et analyse automatique de textes cunéiformes.” Université du Québec à Montréal, Mar 13."
-    - year: 2017
+        - "Pre-requisites and Workflow for the Machine Translation of the Sumerian Language. Future Philologies, ISAW, New York, 20 April."
+        - "Recent Developments in Natural Language Processing for Cuneiform Languages. Thinking Digital in Cuneiform Studies, Venice, 27–28 March."
+        - "Le projet MTAAC : traduction et analyse automatique de textes cunéiformes. Université du Québec à Montréal, 13 March."
+    - year: 2016 – 2017
       items:
-        - "“E-philologie d'aujourd'hui et demain, l'assyriologie digitale en contexte.” Caf'E.PHE 15th edition, Paris, Feb 24."
-        - "“Hypothes.is comme outil pédagogique.” Caf'E.PHE 15th edition, Paris, Feb 24."
-    - year: 2016
-      items:
-        - "“Réflexion sur la visualisation des données appliquée aux corpus en cunéiforme.” Caf'E.PHE 11th edition, Paris (virtual), Feb 9."
+        - "E-philologie d'aujourd'hui et demain ; Hypothes.is comme outil pédagogique ; Réflexion sur la visualisation des données appliquée aux corpus en cunéiforme. Caf'E.PHE, École Pratique des Hautes Études, Paris."
 
 - title: Conference Talks and Posters
+  count: true
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - "Enhancing the ARIADNE Portal through European Collaboration. Digital Humanities Congress, Sheffield, 2–3 September. With Sarah Middle and Julian Richards."
+        - "Knowledge Infrastructures for Artifacts Inscribed with Cuneiform: Aggregating CDLI Records into the ARIADNE Portal. BANEA, London, 22–24 April."
+        - "Digital Heritage Repatriation: The Cuneiform Digital Library Initiative in Arabic. BANEA, London, 22–24 April. With Rune Rattenborg, Haider Aqeel and Jaafar Jotheri."
     - year: 2025
       items:
-        - "“Go with the (Work)flow! Creating Reusable and Replicable Workflows for Digital Humanities Research.” Digital Humanities Benelux, Amsterdam, June 3-6. [with Anne Baillot, Émilie Pagé-Perron, Megan Black, Toma Tasovac, Matej Durco] (Poster)"
-        - "‘Cuneiform Digital Library Initiative: A Free Database of All Cuneiform Texts.’ 6th International Conference of Mesopotamian Archaeology, Al-Qadisiyah University, Iraq, Feb 25. [with Rattenborg, Dahl, Lafont, Renn]"
+        - "Go with the (Work)flow! Creating Reusable and Replicable Workflows for Digital Humanities Research (poster). DH Benelux, Amsterdam, 3–6 June. With Anne Baillot, Megan Black, Toma Tasovac and Matej Durco."
+        - "Cuneiform Digital Library Initiative: A Free Database of All Cuneiform Texts. 6th International Conference of Mesopotamian Archaeology, Al-Qadisiyah University, 25 February. With Rune Rattenborg, Jacob L. Dahl, Bertrand Lafont and Jürgen Renn."
     - year: 2024
       items:
-        - "“DEMCC - The First Online Cuneiform Texts Database in China.” OpenDANES conference, online, Dec 8. [with Changyu Liu, Qier Zhang, Jing Tan, Muzhe Han]"
-        - "“The ARIADNE Portal at the Heart of the ATRIUM project.” DaSCHCon, Bern, Oct 23. [with Julian Richards, Anne Baillot]"
-        - "“We got cuneiform, do you? How to collaborate on the CDLI Framework.” Rencontre Assyriologique Internationale, Helsinki, July 8-12. [with Rune Rattenborg, Jacob L. Dahl, Bertrand Lafont, Jürgen Renn]"
+        - "DEMCC: The First Online Cuneiform Texts Database in China. OpenDANES, online, 8 December. With Changyu Liu, Qier Zhang, Jing Tan and Muzhe Han."
+        - "The ARIADNE Portal at the Heart of the ATRIUM Project. DaSCHCon, Bern, 23 October. With Julian Richards and Anne Baillot."
+        - "We Got Cuneiform, Do You? How to Collaborate on the CDLI Framework. Rencontre Assyriologique Internationale, Helsinki, 8–12 July. With Rune Rattenborg, Jacob L. Dahl, Bertrand Lafont and Jürgen Renn."
     - year: 2023
       items:
-        - "“From transcription to network analysis on evolving corpora.” Digital Text Studies Workshop, Wolfson College, Oxford, June 7."
-        - "“A matter of access: leveraging text, metadata, and images of cuneiform artifacts by non-linguists.” ICAANE, Copenhagen, May 22-26."
+        - "From Transcription to Network Analysis on Evolving Corpora. Digital Text Studies workshop, Wolfson College, Oxford, 7 June."
+        - "A Matter of Access: Leveraging Text, Metadata, and Images of Cuneiform Artifacts by Non-Linguists. ICAANE, Copenhagen, 22–26 May."
     - year: 2022
       items:
-        - "“Building ETCSANS: The Electronic Text Corpus of Syntactically Annotated Neo-Sumerian.” Digital Humanities, Tokyo, July 25-29. [with Christian Chiarcos]"
-        - "“The Vocabularies Consortium: Best Practices for Entity Standardisation and Domain-Specific Controlled Vocabularies for Inscribed Artefact Metadata.” Rencontre Assyriologique Internationale Mainz, July 25-29. [with Rune Rattenborg, Adam Anderson]"
+        - "Building ETCSANS: The Electronic Text Corpus of Syntactically Annotated Neo-Sumerian. Digital Humanities 2022, Tokyo (online), 25–29 July. With Christian Chiarcos."
+        - "The Vocabularies Consortium: Best Practices for Entity Standardisation and Controlled Vocabularies for Inscribed Artefact Metadata. Rencontre Assyriologique Internationale, Mainz (online), 25–29 July. With Rune Rattenborg and Adam Anderson."
     - year: 2021
       items:
-        - "“Interoperability of the CDLI Catalogue.” ArtiBites Workshop, ASOR annual meeting, Dec 9-12."
-        - "“A Next Generation Infrastructure for Digital Assyriology.” Association for Computers and the Humanities Conference, July 21-23. [with Christian Chiarcos]"
+        - "Interoperability of the CDLI Catalogue. ArtiBites workshop, ASOR annual meeting, online, 9–12 December."
+        - "A Next Generation Infrastructure for Digital Assyriology. Association for Computers and the Humanities, online, 21–23 July. With Christian Chiarcos."
     - year: 2020
       items:
-        - "“Open Science at the CDLI: Focus on collaboration and accessibility.” Recent developments in digital Assyriology, Helsinki, Aug 26-27."
+        - "Open Science at the CDLI: Focus on Collaboration and Accessibility. Recent Developments in Digital Assyriology, Helsinki (online), 26–27 August."
     - year: 2019
       items:
-        - "“The MTAAC Project: Computational Analysis for Sumerian.” Broadening Horizons, Berlin, June 24-28. [with Ilya Khait]"
+        - "The MTAAC Project: Computational Analysis for Sumerian. Broadening Horizons, Berlin, 24–28 June. With Ilya Khait."
     - year: 2018
       items:
-        - "“Cuneiform Collections as (Linked) Data.” Collections as Data workshop, Digital Libraries Forum, Las Vegas, Oct 15-17."
-        - "“The scribes of Adab.” Methodological Developments in Prosopographical Studies Workshop, Rencontre Assyriologique Internationale, Innsbruck, July 16-20."
+        - "A Sustainable Domain Digital Library: The Cuneiform Digital Library Initiative. NDSA Digital Preservation conference, Las Vegas, 17–18 October."
+        - "Sustaining DL Services: The Case of the Cuneiform Digital Library Initiative. Digital Library Federation Forum, Las Vegas, 15–17 October."
+        - "Cuneiform Collections as (Linked) Data. Collections as Data workshop, Digital Library Federation Forum, Las Vegas, 15–17 October."
+        - "The Scribes of Adab. Methodological Developments in Prosopographical Studies, Rencontre Assyriologique Internationale, Innsbruck, 16–20 July."
     - year: 2017
       items:
-        - "“Getting LOADed: Practical Considerations, Tools, and Workflows for producing Linked Open Assyriological Data.” ASOR annual meeting, Boston, Nov 15-18. [with Terhi Nurmikko-Fuller]"
-        - "“Machine Translation and Automated Analysis of Cuneiform Languages.” Canadian Society for Mesopotamian Studies Symposium, Toronto, Sep 30. [with Lucas Reckling]"
-        - "“Introducing the Machine Translation and Automated Analysis of Cuneiform Languages Project.” Digital Humanities Network Event, Toronto, Aug 29. [with Lucas Reckling]"
-        - "“Machine Translation and Automated Analysis of the Sumerian Language.” LaTeCH-CLfL workshop, Vancouver, Aug 4. [with Maria Sukhareva, Ilya Khait, Christian Chiarcos]"
-        - "“History and future developments of the Cuneiform Digital Library Initiative.” Digital Humanities Summer Institute Colloquium, Victoria, June 4-16."
-        - "“A Quantitative Method for Identifying Meaningful Groups of People in Administrative Cuneiform Archives.” American Oriental Society 227th Meeting, Los Angeles, Mar 17-20."
-        - "“Enhancing Collaboration between Digital Assyriology Projects through Open Access Practices.” CAA international conference, Atlanta, Mar 14-16. [with Terhi Nurmikko-Fuller, Vanessa Juloux]"
-        - "“Expanding Digital Assyriology with Open Access and Machine Learning: CDLI White Paper for the Global Philology Project.” Global Philology Open Conference, Leipzig, Feb 20-23."
-    - year: 2016
+        - "Getting LOADed: Practical Considerations, Tools, and Workflows for Producing Linked Open Assyriological Data. ASOR annual meeting, Boston, 15–18 November. With Terhi Nurmikko-Fuller."
+        - "Machine Translation and Automated Analysis of Cuneiform Languages. Canadian Society for Mesopotamian Studies symposium, Toronto, 30 September; and Digital Humanities Network, Toronto, 29 August. With Lucas Reckling."
+        - "Machine Translation and Automated Analysis of the Sumerian Language. LaTeCH-CLfL, Vancouver, 4 August. With Maria Sukhareva, Ilya Khait and Christian Chiarcos."
+        - "History and Future Developments of the Cuneiform Digital Library Initiative. Digital Humanities Summer Institute colloquium, Victoria, June."
+        - "A Quantitative Method for Identifying Meaningful Groups of People in Administrative Cuneiform Archives. American Oriental Society, Los Angeles, 17–20 March."
+        - "Enhancing Collaboration between Digital Assyriology Projects through Open Access Practices. CAA, Atlanta, 14–16 March. With Terhi Nurmikko-Fuller and Vanessa Juloux."
+        - "Expanding Digital Assyriology with Open Access and Machine Learning: CDLI White Paper for the Global Philology Project. Global Philology Open Conference, Leipzig, 20–23 February."
+    - year: 2015 – 2016
       items:
-        - "“Data Mining Cuneiform Corpora: Get Relational.” ASOR annual meeting, San Antonio, Nov 16-19."
-        - "“The Fishermen of Early Dynastic Lagash.” American Oriental Society 226th Meeting, Boston, Mar 18-21."
-    - year: 2015
-      items:
-        - "“Data Mining and Visualizing Data from Cuneiform Texts.” ISAW LAWDI Event: Digital Antiquity Coffee House, New York, Oct 2."
-        - "“La reconstruction du panthéon au 3e millénaire avant notre ère: le cas de la 'déesse mère'.” CIRFF, Montreal, Aug 24-28."
+        - "Data Mining Cuneiform Corpora: Get Relational. ASOR annual meeting, San Antonio, November 2016."
+        - "The Fishermen of Early Dynastic Lagash. American Oriental Society, Boston, March 2016."
+        - "Data Mining and Visualizing Data from Cuneiform Texts. ISAW LAWDI Digital Antiquity Coffee House, New York, October 2015."
+        - "La reconstruction du panthéon au 3e millénaire avant notre ère : le cas de la « déesse mère ». CIRFF, Montreal, August 2015."
 
-- title: Teaching Experience
+- title: Teaching
+  count: true
   type: time_table
   contents:
-    - title: Instructor, Faculty of Oriental Studies
-      institution: University of Oxford
-      year: 2021-2024
-      description:
-        - Enmetena (Sumerian reading), Gudea (Sumerian reading), Akkadian unseen texts, Elementary Sumerian, Law and Administration in Mesopotamia, History and Civilisations of Mesopotamia, Writing Systems
-    - title: Instructor, Department of Religious Studies
-      institution: Université du Québec à Montréal
-      year: 2016
-      description:
-        - Religions, Arts and Literature of the Ancient Near East
-    - title: Instructor, Faculty of the Humanities
-      institution: Université du Québec à Montréal
-      year: 2013
-      description:
-        - Introduction to Akkadian
-    - title: Teaching Assistant, Department of Near and Middle Eastern Civilizations
-      institution: University of Toronto
-      year: 2014-2020
-      description:
-        - "The Heartland of Ancient Empires: Mesopotamia, Biblical World, Land of the Pharaohs"
-    - title: Teaching Assistant, Department of History
-      institution: Ryerson University
-      year: 2015
-      description:
-        - Ideas of the World II: Prehistory to the Renaissance
+    - title: Enmetena (Sumerian reading)
+      institution: Instructor, Faculty of Asian and Middle Eastern Studies, University of Oxford
+      year: Hilary 2024
+    - title: Gudea (Sumerian reading)
+      institution: Instructor, Faculty of Asian and Middle Eastern Studies, University of Oxford
+      year: Michaelmas 2023
+    - title: Akkadian Unseen Texts (graduate)
+      institution: Instructor, Faculty of Asian and Middle Eastern Studies, University of Oxford
+      year: Hilary 2023
+    - title: Elementary Sumerian
+      institution: Instructor, Faculty of Asian and Middle Eastern Studies, University of Oxford
+      year: Trinity 2022, 2023
+    - title: Law and Administration in Mesopotamia
+      institution: Instructor, Faculty of Asian and Middle Eastern Studies, University of Oxford
+      year: Michaelmas 2022
+    - title: History and Civilisations of Mesopotamia; Writing Systems
+      institution: Instructor, Faculty of Asian and Middle Eastern Studies, University of Oxford
+      year: Michaelmas 2021
+    - title: "The Heartland of Ancient Empires: Mesopotamia"
+      institution: Teaching assistant, Department of Near and Middle Eastern Civilizations, University of Toronto
+      year: 2014, 2015, 2020
+    - title: Religions, Arts and Literature of the Ancient Near East
+      institution: Instructor, Department of Religious Studies, Université du Québec à Montréal
+      year: Fall 2016
+    - title: Biblical World
+      institution: Teaching assistant, Department of Near and Middle Eastern Civilizations, University of Toronto
+      year: Winter 2016
+    - title: Ideas of the World II, Prehistory to the Renaissance
+      institution: Teaching assistant, Department of History, Ryerson University
+      year: Winter 2015
+    - title: Land of the Pharaohs
+      institution: Teaching assistant, Department of Near and Middle Eastern Civilizations, University of Toronto
+      year: Fall 2014
+    - title: Introduction to Akkadian
+      institution: Instructor, Faculty of the Humanities, Université du Québec à Montréal
+      year: Fall 2013
 
-- title: Past Research Experience
+- title: Earlier Research Experience
   type: time_table
   contents:
-    - title: Research Assistant, Prosopography of the Neo-Assyrian Empire online project
+    - title: Research Assistant, Prosopography of the Neo-Assyrian Empire online
       institution: University of Toronto
-      year: 2019-2020
-    - title: Project Manager, CDLI Framework Update (NEH)
-      institution: University of California, Los Angeles
-      year: 2017-2022
-    - title: Project Coordinator, Machine Translation and Automated Analysis of Cuneiform Languages Project (MTAAC)
-      institution: University of Toronto, UCLA, University of Frankfurt
-      year: 2017-2021
-      description:
-        - Managed UCLA and Toronto teams
+      year: 2019 – 2020
+    - title: Project Coordinator, Machine Translation and Automated Analysis of Cuneiform Languages (MTAAC)
+      institution: University of Toronto, UCLA and Goethe University Frankfurt
+      year: 2017 – 2020
+      maindescription: NEH, DFG and SSHRC funded, about US$550,000. Managed the UCLA team and coordinated the Toronto team.
+    - title: Project Manager and acting PI, CDLI Framework Update
+      institution: UCLA
+      year: 2017 – 2022
+      maindescription: NEH funded, about US$140,000.
     - title: Archaeological Database Manager, Diyala Project
-      institution: University of Toronto and Chicago Oriental Institute
-      year: 2013-2016
-    - title: Research Assistant, Epigraphic Mission at the Damascus Museum
+      institution: University of Toronto and Oriental Institute, Chicago
+      year: 2013 – 2016
+    - title: Research Assistant, epigraphic mission at the Damascus Museum
       institution: University of Geneva
       year: 2009
+
+- title: Service to the Profession
+  type: time_table
+  contents:
+    - maindescription: Co-Director, Cuneiform Digital Library Initiative
+      year: Since 2020
+    - maindescription: Editor in Chief, Cuneiform Digital Library Notes
+      year: Since 2019
+    - maindescription: Editorial board member and assistant to the editors, Cuneiform Digital Library Journal and Bulletin
+      year: Since 2018
+    - maindescription: Google Summer of Code administrator and mentor, Cuneiform Digital Library Initiative
+      year: Since 2018
+    - maindescription: Reviewer for the Digital Humanities conference; guest editor and reviewer for journals
+      year: Since 2016
+    - maindescription: "Member, Working Group 1 'State of the Art: AI and Archaeology', COST Action CA23141 Managing Artificial Intelligence in Archaeology"
+      year: 2025 – 2028
+    - maindescription: Advisor, CUNE-IIIF-ORM project, Royal Museums of Art and History Brussels, Ghent University and KU Leuven
+      year: 2021 – 2025
+    - maindescription: Advisor, Geomapping Landscapes of Writing (GLoW) project, Uppsala University
+      year: 2019 – 2024
+    - maindescription: Board member, Wolfson College General Fund for Assyriology
+      year: 2021 – 2024
+    - maindescription: Member, University of Oxford Humanities IT Forum
+      year: 2021 – 2023
+    - maindescription: Organisation manager, UC Berkeley Data Science Discovery programme for the CDLI
+      year: 2022
+    - maindescription: Co-Principal Investigator, Cuneiform Digital Library Initiative
+      year: 2016 – 2020
+    - maindescription: Future Humanities committee, Jackman Humanities Institute, and University of Toronto representative at the Future Humanities meetings, McGill 2015 and Carleton 2016
+      year: 2014 – 2016
+    - maindescription: Collaborator, Cuneiform Digital Library Initiative
+      year: 2011 – 2016
 
 - title: Scholarships and Fellowships
   type: time_table
   contents:
     - year: 2024
       items:
-        - Investigator, Automating Metadata Harvesting for Aggregation in ARIADNE, COST Action IG18128
-    - year: 2015-2017
+        - "Short Term Scientific Mission grant, COST Action IG18128: Automating Metadata Harvesting for Aggregation in ARIADNE, CNR-ISTI Pisa (€1,500)"
+    - year: 2017 – 2019
       items:
-        - SSHRC Doctoral Award
-        - University of Toronto Fellowship
-        - Digital Humanities Summer Institute Scholarship
-        - School of Graduate Studies Research & Travel Grants, University of Toronto
-        - American Oriental Society Graduate Scholarship
-    - year: 2012-2015
+        - "University of Toronto Doctoral Completion Award ($6,000 per year)"
+    - year: 2015 – 2017
       items:
-        - Jackman Humanities Institute Junior Fellowship
-        - University of Toronto Fellowship
-
-- title: Service to Profession
-  type: list
-  contents:
-    - "Member, WG1 'State of the Art: AI and Archaeology', COST Action CA323141 (2025-2028)"
-    - "Advisor, CUNE-IIIF-ORM Project, Royal Museums of Art and History in Brussels, Ghent University, Leuven University (2021-2025)"
-    - "Board member, Wolfson College General Fund for Assyriology (2021-2024)"
-    - "Co-director, Cuneiform Digital Library Initiative (since 2020)"
-    - "Editor in chief, Cuneiform Digital Library Notes (since 2019)"
-    - "Assistant to the editors and editorial board member, Cuneiform Digital Library Journal and Bulletin (since 2018)"
-    - "Google Summer of Code administrator and mentor, Cuneiform Digital Library Initiative (2018-2022)"
+        - "SSHRC Doctoral Award ($20,000 per year)"
+        - "University of Toronto Fellowship; School of Graduate Studies research and travel grants; Digital Humanities Summer Institute scholarship; American Oriental Society graduate scholarship"
+    - year: 2012 – 2015
+      items:
+        - "Jackman Humanities Institute Junior Fellowship ($5,000 per year)"
+        - "University of Toronto Fellowship ($23,500 per year)"
+    - year: 2013
+      items:
+        - "Ontario Graduate Scholarship ($15,000, declined)"
 
 - title: Professional Memberships
   type: list
   contents:
-    - "International Association for Assyriology (IAA)"
-    - "International Association for Archaeological Research in Western & Central Asia (ARWA)"
-    - "Alliances for Digital Humanities Organizations (ADHO)"
+    - International Association for Assyriology (IAA)
+    - International Association for Archaeological Research in Western and Central Asia (ARWA)
+    - Alliance of Digital Humanities Organizations (ADHO), joint membership
 
-- title: Popular Media Interviews
+- title: Media
   type: list
   contents:
-    - "Deutschlandradio: Künstliche Intelligenz entziffert Keilschrift (2024) https://www.deutschlandfunk.de/babylonische-spracherkennung-ki-entziffert-keilschrift-dlf-1234f899-100.html"
-    - "The New Scientist: Cracking the code (2022) https://doi.org/10.1016/S0262-4079(22)01401-4"
-    - "BBC Online: The key to cracking long-dead languages? (2018) https://www.bbc.com/future/article/20181207-how-ai-could-help-us-with-ancient-languages-like-sumerian"
-    - "CBC Radio: Machine learning deciphers the world's oldest texts (2018) https://www.cbc.ca/radio/spark/spark-418-1.4945331/machine-learning-deciphers-the-world-s-oldest-texts-1.4945342"
+    - "Wildermuth, V. <a href=\"https://www.deutschlandfunk.de/babylonische-spracherkennung-ki-entziffert-keilschrift-dlf-1234f899-100.html\">Künstliche Intelligenz entziffert Keilschrift</a>. Deutschlandfunk, 22 July 2024."
+    - "George, A. <a href=\"https://doi.org/10.1016/S0262-4079(22)01401-4\">Cracking the Code</a> (cover feature). New Scientist 255(3398), 6 August 2022, 40–44."
+    - "<a href=\"https://www.bbc.com/future/article/20181207-how-ai-could-help-us-with-ancient-languages-like-sumerian\">The Key to Cracking Long-Dead Languages?</a> BBC Future, 9 December 2018."
+    - "Young, N. <a href=\"https://www.cbc.ca/radio/spark/spark-418-1.4945331/machine-learning-deciphers-the-world-s-oldest-texts-1.4945342\">Machine Learning Deciphers the World's Oldest Texts</a>. CBC Radio Spark, 14 December 2018."

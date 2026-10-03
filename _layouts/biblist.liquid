@@ -1,0 +1,6 @@
+---
+---
+<div class="bib-entry" id="{{ entry.key }}">
+  {{ reference | replace: 'Pagé-Perron, É.', '<strong>Pagé-Perron, É.</strong>' }}
+  {% if entry.note %}<span class="bib-note">{{ entry.note }}</span>{% endif %}
+</div>

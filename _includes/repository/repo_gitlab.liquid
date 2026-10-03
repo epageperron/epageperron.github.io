@@ -1,0 +1,17 @@
+{% assign gl = include.project %}
+{% if gl and gl.web_url %}
+<div class="repo p-2 text-center">
+  <a href="{{ gl.web_url }}" class="repo-card-link">
+    <div class="repo-card">
+      <div class="repo-card-title"><i class="fa-brands fa-gitlab"></i> {{ gl.path_with_namespace }}</div>
+      <div class="repo-card-desc">{{ gl.description | default: "No description provided" }}</div>
+      <div class="repo-card-meta">
+        {% if include.language %}<span><span class="repo-lang-dot" style="background:{{ include.language_color | default: '#4F5D95' }}"></span>{{ include.language }}</span>{% endif %}
+        <span><i class="fa-regular fa-star"></i> {{ gl.star_count }}</span>
+        <span><i class="fa-solid fa-code-fork"></i> {{ gl.forks_count }}</span>
+        <span>Updated {{ gl.last_activity_at | date: "%b %Y" }}</span>
+      </div>
+    </div>
+  </a>
+</div>
+{% endif %}

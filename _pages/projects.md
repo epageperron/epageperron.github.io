@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Research and outreach projects inventory.
+description: Current and completed research projects.
 nav: true
 nav_order: 2
-display_categories: [undergoing, completed]
+display_categories: [current, completed]
 horizontal: false
 ---
 
