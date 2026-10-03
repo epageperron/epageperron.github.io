@@ -15,5 +15,5 @@ The project asks what cuneiform texts can tell us about human impact on the envi
 
 **Outputs**
 
-- Workshop *Writing the Dawn of the Anthropocene*, Rencontre Assyriologique Internationale 70, Prague, July 2025 (with Christie Carr and Rune Rattenborg).
-- Carr, Pagé-Perron and Dahl, *Human-Environment Interactions at the Dawn of the Anthropocene: A Case Study of Third-Millennium Fisheries in South-Western Asia* (in preparation).
+- Workshop _Writing the Dawn of the Anthropocene_, Rencontre Assyriologique Internationale 70, Prague, July 2025 (with Christie Carr and Rune Rattenborg).
+- Carr, Pagé-Perron and Dahl, _Human-Environment Interactions at the Dawn of the Anthropocene: A Case Study of Third-Millennium Fisheries in South-Western Asia_ (in preparation).

@@ -1230,7 +1230,10 @@ ul.timeline .badge {
 }
 
 // Hand-made card for GitLab projects, matching the GitHub pin cards
-.repo-card-link { text-decoration: none; display: block; }
+.repo-card-link {
+  text-decoration: none;
+  display: block;
+}
 .repo-card {
   border: 1px solid var(--global-divider-color);
   border-radius: 6px;
@@ -1241,21 +1244,57 @@ ul.timeline .badge {
   min-height: 110px;
   font-size: 0.8rem;
 }
-.repo-card-title { font-weight: 600; font-size: 0.9rem; color: var(--global-theme-color); margin-bottom: 0.35rem; }
-.repo-card-title i { margin-right: 0.3rem; }
-.repo-card-desc { color: var(--global-text-color-light); margin-bottom: 0.6rem; line-height: 1.35; }
-.repo-card-meta { display: flex; flex-wrap: wrap; gap: 0.9rem; color: var(--global-text-color-light); }
-.repo-card-meta i { margin-right: 0.25rem; }
-.repo-lang-dot { display: inline-block; width: 0.65rem; height: 0.65rem; border-radius: 50%; margin-right: 0.3rem; vertical-align: middle; }
-.repo-card-link:hover .repo-card { border-color: var(--global-theme-color); }
+.repo-card-title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--global-theme-color);
+  margin-bottom: 0.35rem;
+}
+.repo-card-title i {
+  margin-right: 0.3rem;
+}
+.repo-card-desc {
+  color: var(--global-text-color-light);
+  margin-bottom: 0.6rem;
+  line-height: 1.35;
+}
+.repo-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  color: var(--global-text-color-light);
+}
+.repo-card-meta i {
+  margin-right: 0.25rem;
+}
+.repo-lang-dot {
+  display: inline-block;
+  width: 0.65rem;
+  height: 0.65rem;
+  border-radius: 50%;
+  margin-right: 0.3rem;
+  vertical-align: middle;
+}
+.repo-card-link:hover .repo-card {
+  border-color: var(--global-theme-color);
+}
 
 // Code page: equal-height cards and breathing room between sections
-.repositories { margin-bottom: 1.75rem; }
+.repositories {
+  margin-bottom: 1.75rem;
+}
 .repositories .repo,
 .repositories .repo-card-link,
-.repositories .repo-card { height: 100%; }
-.repositories .repo-card { display: flex; flex-direction: column; }
-.repositories .repo-card-meta { margin-top: auto; }
+.repositories .repo-card {
+  height: 100%;
+}
+.repositories .repo-card {
+  display: flex;
+  flex-direction: column;
+}
+.repositories .repo-card-meta {
+  margin-top: auto;
+}
 // Home: cap the portrait size on wide screens and stack the info lines
 @media (min-width: 576px) {
   .profile {
@@ -1286,13 +1325,19 @@ ul.timeline .badge {
   line-height: 1.5;
   font-size: 0.95rem;
 }
-.publications .bib-entry a { word-break: break-word; }
+.publications .bib-entry a {
+  word-break: break-word;
+}
 .publications .bib-note {
   color: var(--global-text-color-light);
   margin-left: 0.4rem;
 }
-.publications .bib-note::before { content: "["; }
-.publications .bib-note::after { content: "]"; }
+.publications .bib-note::before {
+  content: "[";
+}
+.publications .bib-note::after {
+  content: "]";
+}
 .publications h2 {
   font-size: 1.4rem;
   margin: 2rem 0 1rem;

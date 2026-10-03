@@ -120,24 +120,24 @@
       items:
         - "2028 (under review). <strong>From Siloed Scholarship to Shared Stewardship. Rethinking Data Ethics in Digital Humanities: The Case of Assyriology.</strong> Pagé-Perron, É. and Rattenborg, R. <em>Digital Debates</em>."
         - "2026 (in press). <strong>Expanding Digital Assyriology with Open Access and Machine Learning.</strong> Pagé-Perron, É. <em>Digital Humanities Quarterly</em>."
-        - "2026. <strong>The Cuneiform Digital Library Initiative (CDLI): A Free Database of All Cuneiform Texts</strong> [in Arabic]. Rattenborg, R., Pagé-Perron, É., Dahl, J. L. et al. <em>Isin Journal for Archaeology, History and Ancient Languages</em>, FirstView. <a href=\"https://doi.org/10.70230/nffpyt62\">doi</a>"
+        - '2026. <strong>The Cuneiform Digital Library Initiative (CDLI): A Free Database of All Cuneiform Texts</strong> [in Arabic]. Rattenborg, R., Pagé-Perron, É., Dahl, J. L. et al. <em>Isin Journal for Archaeology, History and Ancient Languages</em>, FirstView. <a href="https://doi.org/10.70230/nffpyt62">doi</a>'
         - "2026 (in press). <strong>White Paper on Prosopographical Studies in the Ancient Near East.</strong> Pearce, L., Svärd, S., Waerzeggers, C. et al. <em>Cuneiform Digital Library Journal</em> 2026:2."
         - "2026 (submitted). <strong>From Cuneiform Tablets to Knowledge Graphs: Assyriological Metadata Standards in Context.</strong> Pagé-Perron, É. In <em>Entangled Rivers: A Multi-Layered Portrait of Southern Mesopotamia</em>, Schriften zur Vorderasiatischen Archäologie."
-        - "2022. <strong>When Linguistics Meets Web Technologies. Recent Advances in Modelling Linguistic Linked Open Data.</strong> Khan, F., Chiarcos, C., Declerck, T. et al. <em>Semantic Web</em> 13(6), 987–1050. <a href=\"https://doi.org/10.3233/SW-222859\">doi</a>"
-        - "2021. <strong>How Low is Too Low? A Computational Perspective on Extremely Low-Resource Languages.</strong> Bansal, R., Choudhary, H., Punia, R. et al. <em>ACL-IJCNLP 2021 Student Research Workshop</em>. <a href=\"https://aclanthology.org/2021.acl-srw.5/\">ACL Anthology</a>"
-        - "2020. <strong>Towards the First Machine Translation System for Sumerian Transliterations.</strong> Punia, R., Schenk, N., Chiarcos, C. and Pagé-Perron, É. <em>Proceedings of COLING 2020</em>, 3454–3460. <a href=\"https://aclanthology.org/2020.coling-main.308/\">ACL Anthology</a>"
-        - "2018. <strong>Annotating a Low-Resource Language with LLOD Technology: Sumerian Morphology and Syntax.</strong> Chiarcos, C., Khait, I., Pagé-Perron, É. et al. <em>Information</em> 9(11), 290. <a href=\"https://doi.org/10.3390/info9110290\">doi</a>"
-        - "2018. <strong>Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora.</strong> Pagé-Perron, É. In V. Bigot Juloux, A. R. Gansell and A. di Ludovico (eds), <em>CyberResearch on the Ancient Near East and Neighboring Regions</em>, 194–223. Leiden: Brill. <a href=\"https://doi.org/10.1163/9789004375086_008\">doi</a>"
-        - "2018. <strong>Towards a Linked Open Data Edition of Sumerian Corpora.</strong> Chiarcos, C., Pagé-Perron, É., Khait, I. et al. <em>Proceedings of LREC 2018</em>. <a href=\"https://aclanthology.org/L18-1387/\">ACL Anthology</a>"
+        - '2022. <strong>When Linguistics Meets Web Technologies. Recent Advances in Modelling Linguistic Linked Open Data.</strong> Khan, F., Chiarcos, C., Declerck, T. et al. <em>Semantic Web</em> 13(6), 987–1050. <a href="https://doi.org/10.3233/SW-222859">doi</a>'
+        - '2021. <strong>How Low is Too Low? A Computational Perspective on Extremely Low-Resource Languages.</strong> Bansal, R., Choudhary, H., Punia, R. et al. <em>ACL-IJCNLP 2021 Student Research Workshop</em>. <a href="https://aclanthology.org/2021.acl-srw.5/">ACL Anthology</a>'
+        - '2020. <strong>Towards the First Machine Translation System for Sumerian Transliterations.</strong> Punia, R., Schenk, N., Chiarcos, C. and Pagé-Perron, É. <em>Proceedings of COLING 2020</em>, 3454–3460. <a href="https://aclanthology.org/2020.coling-main.308/">ACL Anthology</a>'
+        - '2018. <strong>Annotating a Low-Resource Language with LLOD Technology: Sumerian Morphology and Syntax.</strong> Chiarcos, C., Khait, I., Pagé-Perron, É. et al. <em>Information</em> 9(11), 290. <a href="https://doi.org/10.3390/info9110290">doi</a>'
+        - '2018. <strong>Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora.</strong> Pagé-Perron, É. In V. Bigot Juloux, A. R. Gansell and A. di Ludovico (eds), <em>CyberResearch on the Ancient Near East and Neighboring Regions</em>, 194–223. Leiden: Brill. <a href="https://doi.org/10.1163/9789004375086_008">doi</a>'
+        - '2018. <strong>Towards a Linked Open Data Edition of Sumerian Corpora.</strong> Chiarcos, C., Pagé-Perron, É., Khait, I. et al. <em>Proceedings of LREC 2018</em>. <a href="https://aclanthology.org/L18-1387/">ACL Anthology</a>'
         - "2018. <strong>Annotating Sumerian: A LLOD-enhanced Workflow for Cuneiform Corpora.</strong> Chiarcos, C., Khait, I., Pagé-Perron, É. et al. <em>Proceedings of the 6th Workshop on Linked Data in Linguistics (LDL-2018)</em>."
-        - "2017. <strong>Machine Translation and Automated Analysis of the Sumerian Language.</strong> Pagé-Perron, É., Sukhareva, M., Khait, I. and Chiarcos, C. <em>Proceedings of LaTeCH-CLfL 2017</em>. <a href=\"https://aclanthology.org/W17-2202/\">ACL Anthology</a>"
+        - '2017. <strong>Machine Translation and Automated Analysis of the Sumerian Language.</strong> Pagé-Perron, É., Sukhareva, M., Khait, I. and Chiarcos, C. <em>Proceedings of LaTeCH-CLfL 2017</em>. <a href="https://aclanthology.org/W17-2202/">ACL Anthology</a>'
     - title: Other publications and reports
       items:
         - "2026 (in press). <strong>Network Analysis Application in Light of Historical Knowledge.</strong> Pagé-Perron, É. In <em>Routledge Handbook of the Ancient Near East and the Social Sciences</em>, part II, section 6c."
-        - "2026. <strong>Advanced Digital Workflows for Archaeology.</strong> Pagé-Perron, É. and Richards, J. <em>The Archaeologist</em> 127 (CIfA Information Management SIG issue). <a href=\"https://www.archaeologists.net/system/files/uploads/TA-127-website.pdf\">pdf</a>"
-        - "2025. <strong>ATRIUM Interim Report on Demonstrators.</strong> Pagé-Perron, É. et al. 93 pp. <a href=\"https://doi.org/10.5281/zenodo.17900561\">Zenodo</a>"
-        - "2025. <strong>The Cuneiform Digital Library Initiative: A Primer.</strong> Rattenborg, R. and Pagé-Perron, É. International Association for Assyriology. <a href=\"https://doi.org/10.5281/zenodo.15309737\">Zenodo</a>"
-        - "2020. <strong>Cuneiform Digital Library Initiative Framework Update: White Paper.</strong> Pagé-Perron, É. NEH grant HAA-256224-17, UCLA. <a href=\"https://awardsearch.neh.gov/AwardDetail.aspx?gn=HAA-256224-17\">NEH</a>"
+        - '2026. <strong>Advanced Digital Workflows for Archaeology.</strong> Pagé-Perron, É. and Richards, J. <em>The Archaeologist</em> 127 (CIfA Information Management SIG issue). <a href="https://www.archaeologists.net/system/files/uploads/TA-127-website.pdf">pdf</a>'
+        - '2025. <strong>ATRIUM Interim Report on Demonstrators.</strong> Pagé-Perron, É. et al. 93 pp. <a href="https://doi.org/10.5281/zenodo.17900561">Zenodo</a>'
+        - '2025. <strong>The Cuneiform Digital Library Initiative: A Primer.</strong> Rattenborg, R. and Pagé-Perron, É. International Association for Assyriology. <a href="https://doi.org/10.5281/zenodo.15309737">Zenodo</a>'
+        - '2020. <strong>Cuneiform Digital Library Initiative Framework Update: White Paper.</strong> Pagé-Perron, É. NEH grant HAA-256224-17, UCLA. <a href="https://awardsearch.neh.gov/AwardDetail.aspx?gn=HAA-256224-17">NEH</a>'
     - title: In preparation
       items:
         - "<strong>Cuneiform Histories: The Harrogate and Swansea Collections at the Egypt Centre, Swansea University.</strong> Pagé-Perron, É. and Rattenborg, R. For <em>Zeitschrift für Assyriologie</em>."
@@ -156,41 +156,41 @@
   contents:
     - title: CDLI platform
       items:
-        - "<a href=\"https://cdli.earth\">cdli.earth</a>, the Cuneiform Digital Library Initiative website. Lead."
-        - "<a href=\"https://gitlab.com/cdli/framework\">CDLI framework</a>, the open-source platform behind the site, in active development since 2017. Lead."
-        - "<a href=\"https://cdli.earth/docs\">Documentation</a> and <a href=\"https://cdli.earth/resources/sparql\">knowledge graph with SPARQL endpoint</a>. Team."
-        - "<a href=\"https://github.com/cdli-gh/framework-api-client\">API client</a> and <a href=\"https://github.com/cdli-gh/data\">data releases</a>, the daily catalogue and text dumps now served through the API. Lead on data, team on client."
+        - '<a href="https://cdli.earth">cdli.earth</a>, the Cuneiform Digital Library Initiative website. Lead.'
+        - '<a href="https://gitlab.com/cdli/framework">CDLI framework</a>, the open-source platform behind the site, in active development since 2017. Lead.'
+        - '<a href="https://cdli.earth/docs">Documentation</a> and <a href="https://cdli.earth/resources/sparql">knowledge graph with SPARQL endpoint</a>. Team.'
+        - '<a href="https://github.com/cdli-gh/framework-api-client">API client</a> and <a href="https://github.com/cdli-gh/data">data releases</a>, the daily catalogue and text dumps now served through the API. Lead on data, team on client.'
     - title: MTAAC outputs, Sumerian natural language processing (2017–2021)
       items:
-        - "<a href=\"https://github.com/cdli-gh/Sumerian-Translation-Pipeline\">Sumerian translation pipeline</a>: part-of-speech tagging, named-entity recognition and machine translation for Ur III texts. Team."
-        - "<a href=\"https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English\">Semi-supervised NMT for Sumerian–English</a> and <a href=\"https://github.com/cdli-gh/Machine-Translation\">neural machine translation</a> experiments. Mentor."
-        - "<a href=\"https://github.com/cdli-gh/mtaac_gold_corpus\">Gold corpus</a>, <a href=\"https://github.com/cdli-gh/mtaac_syntax_corpus\">dependency syntax corpus</a> and <a href=\"https://github.com/cdli-gh/mtaac_cdli_ur3_corpus\">Ur III corpus</a> of manually annotated Sumerian. Team."
-        - "Annotation tools: <a href=\"https://github.com/cdli-gh/atf2conll-convertor\">atf2conll</a>, <a href=\"https://github.com/cdli-gh/morphology-pre-annotation-tool\">morphology pre-annotation</a>, <a href=\"https://github.com/cdli-gh/annotation_assistant\">annotation assistant</a>, <a href=\"https://github.com/cdli-gh/brat_to_cdli_conll_converter\">Brat to CoNLL converter</a>, <a href=\"https://github.com/cdli-gh/conllu.py\">conllu.py</a>. Team and mentor."
-        - "<a href=\"https://github.com/cdli-gh/mtaac\">Project website</a> and <a href=\"https://github.com/cdli-gh/mtaac_work\">work packages</a>. Lead."
+        - '<a href="https://github.com/cdli-gh/Sumerian-Translation-Pipeline">Sumerian translation pipeline</a>: part-of-speech tagging, named-entity recognition and machine translation for Ur III texts. Team.'
+        - '<a href="https://github.com/cdli-gh/Semi-Supervised-NMT-for-Sumerian-English">Semi-supervised NMT for Sumerian–English</a> and <a href="https://github.com/cdli-gh/Machine-Translation">neural machine translation</a> experiments. Mentor.'
+        - '<a href="https://github.com/cdli-gh/mtaac_gold_corpus">Gold corpus</a>, <a href="https://github.com/cdli-gh/mtaac_syntax_corpus">dependency syntax corpus</a> and <a href="https://github.com/cdli-gh/mtaac_cdli_ur3_corpus">Ur III corpus</a> of manually annotated Sumerian. Team.'
+        - 'Annotation tools: <a href="https://github.com/cdli-gh/atf2conll-convertor">atf2conll</a>, <a href="https://github.com/cdli-gh/morphology-pre-annotation-tool">morphology pre-annotation</a>, <a href="https://github.com/cdli-gh/annotation_assistant">annotation assistant</a>, <a href="https://github.com/cdli-gh/brat_to_cdli_conll_converter">Brat to CoNLL converter</a>, <a href="https://github.com/cdli-gh/conllu.py">conllu.py</a>. Team and mentor.'
+        - '<a href="https://github.com/cdli-gh/mtaac">Project website</a> and <a href="https://github.com/cdli-gh/mtaac_work">work packages</a>. Lead.'
     - title: Research tools
       items:
-        - "<a href=\"https://github.com/cdli-gh/conll2graphml\">conll2graphml</a>, network graphs of people co-occurring in texts, used for the Adab prosopography. Lead."
-        - "<a href=\"https://github.com/cdli-gh/atf2conc\">atf2conc</a>, text preparation for concordance software. Lead."
-        - "<a href=\"https://github.com/epageperron/cuneiform_mining\">cuneiform_mining</a>, database and interface to collect, standardise, mine and visualise cuneiform data. Lead."
-        - "<a href=\"https://github.com/epageperron/UrIIIPro\">UrIIIPro</a>, Ur III provenience classification in R. Lead."
+        - '<a href="https://github.com/cdli-gh/conll2graphml">conll2graphml</a>, network graphs of people co-occurring in texts, used for the Adab prosopography. Lead.'
+        - '<a href="https://github.com/cdli-gh/atf2conc">atf2conc</a>, text preparation for concordance software. Lead.'
+        - '<a href="https://github.com/epageperron/cuneiform_mining">cuneiform_mining</a>, database and interface to collect, standardise, mine and visualise cuneiform data. Lead.'
+        - '<a href="https://github.com/epageperron/UrIIIPro">UrIIIPro</a>, Ur III provenience classification in R. Lead.'
     - title: Vocabularies and ontologies
       items:
-        - "<a href=\"https://github.com/cdli-gh/glow_vocabularies\">GLoW vocabularies</a> for inscribed artefact metadata. Team."
-        - "<a href=\"https://doi.org/10.5281/zenodo.15268834\">AO-Cat ontology</a>, the CIDOC CRM based ontology of the ARIADNE catalogue. Team."
+        - '<a href="https://github.com/cdli-gh/glow_vocabularies">GLoW vocabularies</a> for inscribed artefact metadata. Team.'
+        - '<a href="https://doi.org/10.5281/zenodo.15268834">AO-Cat ontology</a>, the CIDOC CRM based ontology of the ARIADNE catalogue. Team.'
     - title: Archaeological data infrastructure
       items:
-        - "<a href=\"https://ariadne-portal.d4science.org/\">ARIADNE portal</a>, ingestion and mapping of partner datasets, including CDLI records. Team."
-        - "<a href=\"https://github.com/uoy-ads/welsh-trusts-greylit\">welsh-trusts-greylit</a>, ingest of Welsh Trusts grey literature into the ADS Library. Lead."
-        - "<a href=\"https://github.com/Diyala-OI/interface\">Diyala interface</a>, map-based navigation of the Diyala Project small finds. Lead."
+        - '<a href="https://ariadne-portal.d4science.org/">ARIADNE portal</a>, ingestion and mapping of partner datasets, including CDLI records. Team.'
+        - '<a href="https://github.com/uoy-ads/welsh-trusts-greylit">welsh-trusts-greylit</a>, ingest of Welsh Trusts grey literature into the ADS Library. Lead.'
+        - '<a href="https://github.com/Diyala-OI/interface">Diyala interface</a>, map-based navigation of the Diyala Project small finds. Lead.'
     - title: Mentored projects (Google Summer of Code and students, 2018–2022)
       items:
-        - "<a href=\"https://github.com/cdli-gh/Cuneiform-OCR\">Cuneiform OCR</a>, line and sign detection on tablet images."
-        - "<a href=\"https://github.com/cdli-gh/cdli-mobile-app\">CDLI mobile app</a> and <a href=\"https://github.com/cdli-gh/cdli-tablet-app\">tablet app</a>."
-        - "<a href=\"https://github.com/cdli-gh/pyoracc\">pyoracc</a>, Python tools for working with ATF."
-        - "<a href=\"https://github.com/cdli-gh/coco-convertor\">coco-convertor</a>, converts COCO image annotations to the open annotation format."
-        - "<a href=\"https://github.com/cdli-gh/pub_file_entity_extractor\">Publication entity extractor</a>, finds CDLI entities in publication PDFs."
-        - "<a href=\"https://github.com/cdli-gh/publication-merging\">Publication merging</a>, de-duplication of bibliographic records."
-        - "<a href=\"https://github.com/cdli-gh/database-schema\">Temporal data schema</a>, granular temporal data management for the CDLI."
+        - '<a href="https://github.com/cdli-gh/Cuneiform-OCR">Cuneiform OCR</a>, line and sign detection on tablet images.'
+        - '<a href="https://github.com/cdli-gh/cdli-mobile-app">CDLI mobile app</a> and <a href="https://github.com/cdli-gh/cdli-tablet-app">tablet app</a>.'
+        - '<a href="https://github.com/cdli-gh/pyoracc">pyoracc</a>, Python tools for working with ATF.'
+        - '<a href="https://github.com/cdli-gh/coco-convertor">coco-convertor</a>, converts COCO image annotations to the open annotation format.'
+        - '<a href="https://github.com/cdli-gh/pub_file_entity_extractor">Publication entity extractor</a>, finds CDLI entities in publication PDFs.'
+        - '<a href="https://github.com/cdli-gh/publication-merging">Publication merging</a>, de-duplication of bibliographic records.'
+        - '<a href="https://github.com/cdli-gh/database-schema">Temporal data schema</a>, granular temporal data management for the CDLI.'
 
 - title: Panels and Workshops Organised
   count: true
@@ -450,7 +450,7 @@
 - title: Media
   type: list
   contents:
-    - "Wildermuth, V. <a href=\"https://www.deutschlandfunk.de/babylonische-spracherkennung-ki-entziffert-keilschrift-dlf-1234f899-100.html\">Künstliche Intelligenz entziffert Keilschrift</a>. Deutschlandfunk, 22 July 2024."
-    - "George, A. <a href=\"https://doi.org/10.1016/S0262-4079(22)01401-4\">Cracking the Code</a> (cover feature). New Scientist 255(3398), 6 August 2022, 40–44."
-    - "<a href=\"https://www.bbc.com/future/article/20181207-how-ai-could-help-us-with-ancient-languages-like-sumerian\">The Key to Cracking Long-Dead Languages?</a> BBC Future, 9 December 2018."
-    - "Young, N. <a href=\"https://www.cbc.ca/radio/spark/spark-418-1.4945331/machine-learning-deciphers-the-world-s-oldest-texts-1.4945342\">Machine Learning Deciphers the World's Oldest Texts</a>. CBC Radio Spark, 14 December 2018."
+    - 'Wildermuth, V. <a href="https://www.deutschlandfunk.de/babylonische-spracherkennung-ki-entziffert-keilschrift-dlf-1234f899-100.html">Künstliche Intelligenz entziffert Keilschrift</a>. Deutschlandfunk, 22 July 2024.'
+    - 'George, A. <a href="https://doi.org/10.1016/S0262-4079(22)01401-4">Cracking the Code</a> (cover feature). New Scientist 255(3398), 6 August 2022, 40–44.'
+    - '<a href="https://www.bbc.com/future/article/20181207-how-ai-could-help-us-with-ancient-languages-like-sumerian">The Key to Cracking Long-Dead Languages?</a> BBC Future, 9 December 2018.'
+    - 'Young, N. <a href="https://www.cbc.ca/radio/spark/spark-418-1.4945331/machine-learning-deciphers-the-world-s-oldest-texts-1.4945342">Machine Learning Deciphers the World''s Oldest Texts</a>. CBC Radio Spark, 14 December 2018.'

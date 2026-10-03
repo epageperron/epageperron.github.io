@@ -4,14 +4,14 @@ Personal academic website of Émilie Pagé-Perron, built with [al-folio](https:/
 
 ## Where the content lives
 
-| What | File(s) |
-| --- | --- |
-| About page | `_pages/about.md` |
-| CV | `_data/cv.yml` |
-| Publications | `_bibliography/papers.bib` (field `section` = `peer`, `other` or `thesis`) |
-| Projects | `_projects/*.md` (`category` = `current` or `completed`) |
-| Site settings, social links | `_config.yml` |
-| Images | `assets/img/` |
+| What                        | File(s)                                                                    |
+| --------------------------- | -------------------------------------------------------------------------- |
+| About page                  | `_pages/about.md`                                                          |
+| CV                          | `_data/cv.yml`                                                             |
+| Publications                | `_bibliography/papers.bib` (field `section` = `peer`, `other` or `thesis`) |
+| Projects                    | `_projects/*.md` (`category` = `current` or `completed`)                   |
+| Site settings, social links | `_config.yml`                                                              |
+| Images                      | `assets/img/`                                                              |
 
 ## Local preview
 

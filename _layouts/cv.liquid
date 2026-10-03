@@ -39,7 +39,12 @@ layout: default
             {% elsif entry.type == 'list' %}
               {% assign cv_count = entry.contents.size %}
             {% endif %}
-                        <h3 class="card-title font-weight-medium">{{ entry.title }}{% if cv_count > 0 %} <span class="count">({{ cv_count }})</span>{% endif %}</h3>
+            <h3 class="card-title font-weight-medium">
+              {{ entry.title -}}
+              {%- if cv_count > 0 %}
+                <span class="count">({{ cv_count }})</span>
+              {%- endif %}
+            </h3>
             <div>
               {% if entry.type == 'list' %}
                 {% include cv/list.liquid %}

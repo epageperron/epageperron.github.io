@@ -22,6 +22,6 @@ social: true
 
 She works on the social and environmental history of third-millennium BCE Mesopotamia, Sumerian philology, and the computational study of cuneiform texts. She builds the infrastructure that keeps this heritage open and usable: the CDLI platform, linked open data and vocabularies, machine-assisted annotation and translation, and the ARIADNE research infrastructure for European archaeology.
 
-From 2026 she leads *Towards Universal Access to Cuneiform Heritage*, funded by the Meditor Trust, which widens access to cuneiform heritage in its countries of origin, starting with Arabic-speaking users of the CDLI.
+From 2026 she leads _Towards Universal Access to Cuneiform Heritage_, funded by the Meditor Trust, which widens access to cuneiform heritage in its countries of origin, starting with Arabic-speaking users of the CDLI.
 
 Her aim is a culture of open data and shared stewardship for the material and textual heritage of ancient societies.
