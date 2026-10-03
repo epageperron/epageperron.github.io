@@ -18,10 +18,10 @@ selected_papers: false
 social: true
 ---
 
-Émilie Pagé-Perron is a Research Fellow and Research Associate at the Archaeology Data Service, University of York, Co-Director of the [Cuneiform Digital Library Initiative](https://cdli.earth/) (CDLI), and a postdoctoral guest fellow of the Max Planck Institute of Geoanthropology.
+Émilie Pagé-Perron studies the social and environmental history of third-millennium BCE Mesopotamia through its administrative archives, read at scale with computational methods: who the people in the texts were, how they were connected, and how they used and changed a landscape of marshes, rivers and fields.
 
-She works on the social and environmental history of third-millennium BCE Mesopotamia, Sumerian philology, and the computational study of cuneiform texts. She builds the infrastructure that keeps this heritage open and usable: the CDLI platform, linked open data and vocabularies, machine-assisted annotation and translation, and the ARIADNE research infrastructure for European archaeology.
+She is a Research Fellow at the Archaeology Data Service, University of York, where she leads [Towards Universal Access to Cuneiform Heritage](/projects/universal-access/) (Meditor Trust, 2026–2029), and a Research Associate there on the ARIADNE and ATRIUM infrastructures for European archaeology. She is Co-Director of the [Cuneiform Digital Library Initiative](https://cdli.earth/) (CDLI) and a postdoctoral guest fellow of the Max Planck Institute of Geoanthropology.
 
-From 2026 she leads _Towards Universal Access to Cuneiform Heritage_, funded by the Meditor Trust, which widens access to cuneiform heritage in its countries of origin, starting with Arabic-speaking users of the CDLI.
+Because the questions need the whole corpus, she builds the infrastructure that keeps it open and usable: the CDLI platform, linked open data and vocabularies, and machine-assisted annotation and translation of Sumerian. Her current programme widens access to cuneiform heritage in its countries of origin, starting with Arabic-speaking users of the CDLI.
 
 Her aim is a culture of open data and shared stewardship for the material and textual heritage of ancient societies.

@@ -2,13 +2,16 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Articles, chapters, proceedings, reports and theses, newest first.
+description: Five selected works first, then everything by category, newest first.
 nav: true
 nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
 <div class="publications">
+
+<h2>Selected</h2>
+{% bibliography --query @*[selected=true] %}
 
 <h2>Peer-reviewed articles, chapters and proceedings</h2>
 {% bibliography --query @*[section=peer] %}
