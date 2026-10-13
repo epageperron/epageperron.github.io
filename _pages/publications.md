@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Five selected works first, then everything by category, newest first.
+description: Selected works first, then everything by category, newest first.
 nav: true
 nav_order: 3
 ---

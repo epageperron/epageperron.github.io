@@ -173,6 +173,7 @@
         - '<a href="https://github.com/cdli-gh/atf2conc">atf2conc</a>, text preparation for concordance software. Lead.'
         - '<a href="https://github.com/epageperron/cuneiform_mining">cuneiform_mining</a>, database and interface to collect, standardise, mine and visualise cuneiform data. Lead.'
         - '<a href="https://github.com/epageperron/UrIIIPro">UrIIIPro</a>, Ur III provenience classification in R. Lead.'
+        - '<a href="https://doi.org/10.5281/zenodo.21834305">Statistics companion</a> to "From Cuneiform Tablets to Knowledge Graphs", CDLI genre and language counts with the SQL and scripts that produce them (dataset, 2026). Lead.'
     - title: Vocabularies and ontologies
       items:
         - '<a href="https://github.com/cdli-gh/glow_vocabularies">GLoW vocabularies</a> for inscribed artefact metadata. Team.'
@@ -198,6 +199,7 @@
   contents:
     - year: 2026
       items:
+        - "Interlinking the Past: FAIR Metadata for Interdisciplinary Archaeological Research. European Association of Archaeologists Annual Meeting, Athens, 26–29 August. With Sarah Middle and David Novák."
         - "Access to Cuneiform Texts workshops, universities of Al-Qadisiyah, Babil, Baghdad and Mosul, Iraq. With Jaafar Jotheri, Haider Aqeel and Rune Rattenborg."
     - year: 2025
       items:
