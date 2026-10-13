@@ -173,7 +173,6 @@
         - '<a href="https://github.com/cdli-gh/atf2conc">atf2conc</a>, text preparation for concordance software. Lead.'
         - '<a href="https://github.com/epageperron/cuneiform_mining">cuneiform_mining</a>, database and interface to collect, standardise, mine and visualise cuneiform data. Lead.'
         - '<a href="https://github.com/epageperron/UrIIIPro">UrIIIPro</a>, Ur III provenience classification in R. Lead.'
-        - '<a href="https://doi.org/10.5281/zenodo.21834305">Statistics companion</a> to "From Cuneiform Tablets to Knowledge Graphs", CDLI genre and language counts with the SQL and scripts that produce them (dataset, 2026). Lead.'
     - title: Vocabularies and ontologies
       items:
         - '<a href="https://github.com/cdli-gh/glow_vocabularies">GLoW vocabularies</a> for inscribed artefact metadata. Team.'
