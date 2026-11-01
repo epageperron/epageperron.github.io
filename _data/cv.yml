@@ -75,7 +75,7 @@
   type: time_table
   contents:
     - title: Principal Investigator, Towards Universal Access to Cuneiform Heritage
-      institution: Meditor Trust
+      institution: Meditor Trust and University of York
       icon: handshake
       year: 2026 – 2029
       maindescription: £575,266
@@ -120,8 +120,8 @@
       items:
         - "2028 (under review). <strong>From Siloed Scholarship to Shared Stewardship. Rethinking Data Ethics in Digital Humanities: The Case of Assyriology.</strong> Pagé-Perron, É. and Rattenborg, R. <em>Digital Debates</em>."
         - "2026 (in press). <strong>Expanding Digital Assyriology with Open Access and Machine Learning.</strong> Pagé-Perron, É. <em>Digital Humanities Quarterly</em>."
-        - '2026. <strong>The Cuneiform Digital Library Initiative (CDLI): A Free Database of All Cuneiform Texts</strong> [in Arabic]. Rattenborg, R., Pagé-Perron, É., Dahl, J. L. et al. <em>Isin Journal for Archaeology, History and Ancient Languages</em>, FirstView. <a href="https://doi.org/10.70230/nffpyt62">doi</a>'
-        - "2026 (in press). <strong>White Paper on Prosopographical Studies in the Ancient Near East.</strong> Pearce, L., Svärd, S., Waerzeggers, C. et al. <em>Cuneiform Digital Library Journal</em> 2026:2."
+        - '2026. <strong>The Cuneiform Digital Library Initiative (CDLI): A Free Database of All Cuneiform Texts</strong> [in Arabic]. Rattenborg, R., Pagé-Perron, É., Dahl, J. L. et al. <em>Isin Journal for Archaeology, History and Ancient Languages</em>, special issue 2026. <a href="https://doi.org/10.70230/nffpyt62">doi</a>'
+        - '2026. <strong>White Paper on Prosopographical Studies in the Ancient Near East.</strong> Pearce, L., Svärd, S., Waerzeggers, C. et al. <em>Cuneiform Digital Library Journal</em> 2026:2. <a href="https://cdli.earth/articles/cdlj/2026-2">article</a>'
         - "2026 (submitted). <strong>From Cuneiform Tablets to Knowledge Graphs: Assyriological Metadata Standards in Context.</strong> Pagé-Perron, É. In <em>Entangled Rivers: A Multi-Layered Portrait of Southern Mesopotamia</em>, Schriften zur Vorderasiatischen Archäologie."
         - '2022. <strong>When Linguistics Meets Web Technologies. Recent Advances in Modelling Linguistic Linked Open Data.</strong> Khan, F., Chiarcos, C., Declerck, T. et al. <em>Semantic Web</em> 13(6), 987–1050. <a href="https://doi.org/10.3233/SW-222859">doi</a>'
         - '2021. <strong>How Low is Too Low? A Computational Perspective on Extremely Low-Resource Languages.</strong> Bansal, R., Choudhary, H., Punia, R. et al. <em>ACL-IJCNLP 2021 Student Research Workshop</em>. <a href="https://aclanthology.org/2021.acl-srw.5/">ACL Anthology</a>'
@@ -198,6 +198,7 @@
   contents:
     - year: 2026
       items:
+        - "Interlinking the Past: FAIR Metadata for Interdisciplinary Archaeological Research. European Association of Archaeologists annual meeting, Athens, 26–29 August. With Sarah Middle and David Novák."
         - "Access to Cuneiform Texts workshops, universities of Al-Qadisiyah, Babil, Baghdad and Mosul, Iraq. With Jaafar Jotheri, Haider Aqeel and Rune Rattenborg."
     - year: 2025
       items:
@@ -273,6 +274,7 @@
   contents:
     - year: 2026
       items:
+        - "Place-Based Demonstrators from the ATRIUM Project. European Association for Digital Humanities conference, Kraków, 15–19 September. With William Illsley, Sarah Middle, Julian Richards, Elton Barker and Ulf Jakobsson."
         - "Enhancing the ARIADNE Portal through European Collaboration. Digital Humanities Congress, Sheffield, 2–3 September. With Sarah Middle and Julian Richards."
         - "Knowledge Infrastructures for Artifacts Inscribed with Cuneiform: Aggregating CDLI Records into the ARIADNE Portal. BANEA, London, 22–24 April."
         - "Digital Heritage Repatriation: The Cuneiform Digital Library Initiative in Arabic. BANEA, London, 22–24 April. With Rune Rattenborg, Haider Aqeel and Jaafar Jotheri."

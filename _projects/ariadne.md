@@ -17,4 +17,5 @@ The [ARIADNE portal](https://portal.ariadne-infrastructure.eu/) aggregates more 
 
 - Knowledge Infrastructures for Artifacts Inscribed with Cuneiform: Aggregating CDLI Records into the ARIADNE Portal. BANEA, London, April 2026.
 - Enhancing the ARIADNE Portal through European Collaboration. Digital Humanities Congress, Sheffield, September 2026 (with Sarah Middle and Julian Richards).
+- Session _Interlinking the Past: FAIR Metadata for Interdisciplinary Archaeological Research_, European Association of Archaeologists, Athens, August 2026 (with Sarah Middle and David Novák).
 - Automating Metadata Harvesting for Aggregation in ARIADNE. COST short-term scientific mission at CNR-ISTI, Pisa, 2024.

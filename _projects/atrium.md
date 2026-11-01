@@ -17,6 +17,7 @@ ATRIUM connects four European research infrastructures, ARIADNE for archaeology,
 
 - [ATRIUM Interim Report on Demonstrators](https://doi.org/10.5281/zenodo.17900561), 2025 (lead author).
 - [Place-based Linking and Visualisation of Multidisciplinary Research Data: Demonstrators from the ATRIUM Project](https://doi.org/10.5281/zenodo.22934382), 2026.
+- [Place-Based Demonstrators](https://doi.org/10.5281/zenodo.23725064), extended abstract and presentation, European Association for Digital Humanities conference, Kraków, September 2026 (with William Illsley, Sarah Middle, Julian Richards, Elton Barker and Ulf Jakobsson).
 - Pagé-Perron and Richards, [Advanced Digital Workflows for Archaeology](https://www.archaeologists.net/system/files/uploads/TA-127-website.pdf), _The Archaeologist_ 127, 2026.
 - Panel _Reusable Digital Research Workflows for Archaeology_, CAA, Athens, May 2025; poster _Go with the (Work)flow!_, DH Benelux, Amsterdam, June 2025; session _Towards Adaptation: Environmental Sustainability in Archaeological Workflows_, TAG, York, December 2025 (all with Anne Baillot and others).
 - The ARIADNE Portal at the Heart of the ATRIUM Project. DaSCHCon, Bern, October 2024 (with Julian Richards and Anne Baillot).

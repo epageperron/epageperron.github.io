@@ -4,7 +4,7 @@ title: Cuneiform Insights into the Dawn of the Anthropocene
 description: What third-millennium BCE texts about fisheries reveal about human impact on the marshes of southern Iraq.
 img: assets/img/4.jpg
 importance: 3
-category: current
+category: completed
 giscus_comments: false
 ---
 
